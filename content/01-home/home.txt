@@ -1,0 +1,7 @@
+Title: Startseite
+----
+Text: Wir sind aktuell eine Gruppe von rund 25 Leuten und wir treffen uns üblicherweise jeden 2. Donnerstag eines Monats ab 19h im Süden Düsseldorfs, im Coworking Space Garage Bilk.
+
+Angesprochen sind alle, die sich mit der Thematik “Webentwicklung” beschäftigen: Solo oder im großen Team, Grafiker, Frontendler oder Backendler gleichermaßen. Es geht darum, voneinander zu lernen und über den eigenen Tellerrand zu blicken. Je verschiedener die Gruppe, desto verschiedener die Themen!
+
+Jeden dieser Abende versuchen wir zwei Themen zu beackern. Das geschieht in Vortragsform (mit oder ohne ausgefeilter Präsentation) oder als Hands-on mit gemeinschaftlicher Fragerunde. Du kennst Dich bei einem Thema gut aus? Erleuchte uns! Oder setz Dich mit einem Bierchen zu uns und sauge Wissen auf.

@@ -1,0 +1,164 @@
+/* line 17, ../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/* line 5, ../sass/screen.scss */
+html {
+  background-color: #f7f7f7;
+  color: #000;
+  text-shadow: 1px 1px 1px #FFF;
+}
+
+/* line 10, ../sass/screen.scss */
+body {
+  max-width: 600px;
+  margin: 0 auto;
+  font-family: Inconsolata, Consolas, monaco, monospace;
+  line-height: 1.2;
+}
+
+/* line 16, ../sass/screen.scss */
+a {
+  color: #CC0106;
+}
+
+/* line 19, ../sass/screen.scss */
+h1, h2, h3, h4, h5, h6, p, details, nav {
+  margin-bottom: 16pxpx;
+  margin-bottom: 1rem;
+}
+
+/* line 22, ../sass/screen.scss */
+h1, h2 {
+  color: #83ab17;
+  font-size: 28pxpx;
+  font-size: 1.75rem;
+}
+
+/* line 26, ../sass/screen.scss */
+h3, h4, h5, h6, nav, summary {
+  color: #006531;
+  font-size: 20pxpx;
+  font-size: 1.25rem;
+}
+/* line 30, ../sass/screen.scss */
+h3 small, h4 small, h5 small, h6 small, nav small, summary small {
+  font-size: 16pxpx;
+  font-size: 1rem;
+}
+
+/* line 34, ../sass/screen.scss */
+summary {
+  zoom: 1;
+  cursor: pointer;
+}
+/* line 9, ../sass/helper/_mixins.scss */
+summary:after {
+  content: ' ';
+  display: block;
+  clear: both;
+  font-size: 0;
+}
+/* line 39, ../sass/screen.scss */
+summary:hover {
+  text-decoration: underline;
+}
+
+/* line 43, ../sass/screen.scss */
+p {
+  font-size: 16pxpx;
+  font-size: 1rem;
+  text-align: justify;
+}
+
+/* line 48, ../sass/screen.scss */
+nav li {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+}
+
+/* line 52, ../sass/screen.scss */
+.topics li {
+  zoom: 1;
+  display: block;
+}
+/* line 9, ../sass/helper/_mixins.scss */
+.topics li:after {
+  content: ' ';
+  display: block;
+  clear: both;
+  font-size: 0;
+}
+/* line 57, ../sass/screen.scss */
+.topics img {
+  -webkit-box-shadow: 0 0 10px #cdb89e;
+  -moz-box-shadow: 0 0 10px #cdb89e;
+  -o-box-shadow: 0 0 10px #cdb89e;
+  -ms-box-shadow: 0 0 10px #cdb89e;
+  box-shadow: 0 0 10px #cdb89e;
+  float: left;
+  margin: 0 20px 12px 0;
+  border: 1px solid #FFF;
+}

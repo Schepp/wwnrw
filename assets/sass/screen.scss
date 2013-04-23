@@ -1,0 +1,65 @@
+@import "compass/reset";
+@import "helper/vars";
+@import "helper/mixins";
+
+html {
+	background-color: #f7f7f7;
+	color: #000;
+	text-shadow: 1px 1px 1px #FFF;
+}
+body {
+	max-width: 600px;
+	margin: 0 auto;
+	font-family: Inconsolata, Consolas, monaco, monospace;
+	line-height: 1.2;
+}
+a {
+	color: #CC0106;
+}
+h1,h2,h3,h4,h5,h6,p,details,nav {
+	@include rem("margin-bottom",1);
+}
+h1,h2 {
+	color: darken($colorBrightGreen,5%);
+	@include rem("font-size",1.75);
+}
+h3,h4,h5,h6,nav,summary {
+	color: $colorDarkGreen;
+	@include rem("font-size",1.25);
+
+	small {
+		@include rem("font-size",1);
+	}
+}
+summary {
+	@include clearfix;
+
+	cursor: pointer;
+	
+	&:hover {
+		text-decoration: underline;
+	}
+}
+p {
+	@include rem("font-size",1);
+	
+	text-align: justify;
+}
+nav li {
+	@include inline-block;
+}
+.topics {
+	li {
+		@include clearfix;
+
+		display: block;
+	}
+	img {
+		@include box-shadow(0 0 10px #cdb89e);
+		
+		float: left;
+		margin: 0 20px 12px 0;
+		border: 1px solid #FFF;
+	}
+}
+
