@@ -1,6 +1,6 @@
 Title: Das monatliche Treffen für Webworker
 ----
-Description: Wir Treffen uns jeden 2. Do. im Monat um 19h in der Garage Bilk in Düsseldorf.
+Description: Wir treffen uns jeden 2. Do. im Monat um 19h in der Garage Bilk in Düsseldorf.
 ----
 Text: Wir sind aktuell eine Gruppe von rund 25 Leuten und wir treffen uns üblicherweise jeden 2. Donnerstag eines Monats ab 19h im Süden Düsseldorfs, im [Coworking Space Garage Bilk](http://www.garagebilk.de/).
 
