@@ -25,7 +25,7 @@ h1,h2 {
 	@include rem("font-size",1.75);
 }
 h3,h4,h5,h6,nav,summary {
-	color: $colorDarkGreen;
+	color: $colorRed;
 	@include rem("font-size",1.25);
 
 	small {
