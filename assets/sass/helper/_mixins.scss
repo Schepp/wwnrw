@@ -1,5 +1,5 @@
 @mixin rem($property, $sizeValue: 1){
-	#{$property}: $rootFontSize * $sizeValue + px;
+	#{$property}: $rootFontSize * $sizeValue;
 	#{$property}: $sizeValue + rem;
 }
 
@@ -96,11 +96,11 @@
 }
 
 @mixin background-size {
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	-ms-background-size: cover;
-	background-size: cover;
+	-webkit-background-size: cover !important;
+	-moz-background-size: cover !important;
+	-o-background-size: cover !important;
+	-ms-background-size: cover !important;
+	background-size: cover !important;
 }
 
 @mixin background-clip {

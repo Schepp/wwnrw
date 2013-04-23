@@ -1,6 +1,7 @@
 @import "compass/reset";
 @import "helper/vars";
 @import "helper/mixins";
+@import "../scripts/slider/js-image-slider.css";
 
 html {
 	background-color: #f7f7f7;
@@ -8,7 +9,8 @@ html {
 	text-shadow: 1px 1px 1px #FFF;
 }
 body {
-	max-width: 600px;
+	@include rem("max-width",41.5);
+
 	margin: 0 auto;
 	font-family: Inconsolata, Consolas, monaco, monospace;
 	line-height: 1.2;
@@ -16,7 +18,7 @@ body {
 a {
 	color: #CC0106;
 }
-h1,h2,h3,h4,h5,h6,p,details,nav {
+h1,h2,h3,h4,h5,h6,p,details,nav,#map {
 	@include rem("margin-bottom",1);
 }
 h1,h2 {
@@ -30,6 +32,9 @@ h3,h4,h5,h6,nav,summary {
 	small {
 		@include rem("font-size",1);
 	}
+}
+details {
+	@include rem("padding-bottom",1);
 }
 summary {
 	@include clearfix;
@@ -45,12 +50,39 @@ p {
 	
 	text-align: justify;
 }
-nav li {
-	@include inline-block;
+header, article {
+	@include rem("margin-top",2);
+	@include rem("margin-bottom",2);
+	@include rem("padding-left",2);
+	@include rem("padding-right",2);
+}
+article {
+}
+hr {
+	width: 100%;
+	height: 1px;
+	background-color: #CCC;
+	color: #CCC;
+	border: none;
+}
+nav {
+	display: table;
+	table-layout: fixed;
+	width: 100%;
+	
+	ul {
+		display: table-row;
+	}
+	li {
+		display: table-cell;
+		text-align: center;
+	}
 }
 .topics {
 	li {
 		@include clearfix;
+		@include rem("margin-top",2);
+		@include rem("margin-bottom",2);
 
 		display: block;
 	}
@@ -62,4 +94,14 @@ nav li {
 		border: 1px solid #FFF;
 	}
 }
+#map {
+	@include box-shadow(0 0 10px #cdb89e);
+	@include border-box;
 
+	width: 100%;
+	height: 400px;
+	border: 1px solid #FFF;
+}
+#sliderFrame, #slider {
+	width: 100%;
+}
