@@ -3,7 +3,7 @@
 <head>
     <title><?php echo html($page->title()) ?> | <?php echo html($site->title()) ?></title>
     <meta charset="utf-8">
-    <meta name="description" content="<?php echo html($site->description()) ?>">
+    <meta name="description" content="<?php echo html($page->description()) ?>">
     <meta name="robots" content="index, follow">
     <?php echo css('assets/stylesheets/screen.css') ?>
 	<script>

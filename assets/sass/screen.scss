@@ -4,9 +4,8 @@
 @import "../scripts/slider/js-image-slider.css";
 
 html {
-	background-color: #f7f7f7;
+	background-color: #FFF;
 	color: #000;
-	text-shadow: 1px 1px 1px #FFF;
 }
 body {
 	@include rem("max-width",41.5);
@@ -103,5 +102,10 @@ nav {
 	border: 1px solid #FFF;
 }
 #sliderFrame, #slider {
+	@include box-shadow(0 0 10px #cdb89e);
+	@include border-box;
+
 	width: 100%;
+	overflow: hidden;
+	border: 1px solid #FFF;
 }
