@@ -18,6 +18,10 @@ RewriteEngine on
 # 
 # RewriteBase /
 
+RewriteCond %{HTTP_HOST} !^webworker-nrw.de$
+RewriteCond %{HTTP_HOST} ^[a-z\.]*?([a-z]+).de$
+RewriteRule ^(.*)$ http://%1.com/$1 [R=301,L,NC,QSA]
+
 # block text files in the content folder from being accessed directly
 RewriteRule ^content/(.*)\.(txt|md|mdown)$ error [R=301,L]
 
