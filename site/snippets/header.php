@@ -1,3 +1,10 @@
+<?php
+if($_SERVER['HTTP_HOST'] == 'www.webworker-nrw.de'){
+	header ('HTTP/1.1 301 Moved Permanently');
+	header ('Location: http://webworker-nrw.de'.$_SERVER['REQUEST_URI']);
+	exit;
+}
+?>
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -11,13 +18,13 @@
 	<!-- Create Icons via http://iconifier.net -->
 	<link rel="shortcut icon" href="<?php echo url('favicon.ico') ?>">
 	<link rel="apple-touch-icon" href="<?php echo url('assets/images/apple-touch-icon.png') ?>">
-	<link rel="apple-touch-icon" sizes="57x57" href="<?php echo url('assets/images/aapple-touch-icon-57x57.png') ?>">
-	<link rel="apple-touch-icon" sizes="72x72" href="<?php echo url('assets/images/aapple-touch-icon-72x72.png') ?>">
-	<link rel="apple-touch-icon" sizes="114x114" href="<?php echo url('assets/images/aapple-touch-icon-114x114.png') ?>">
-	<link rel="apple-touch-icon" sizes="144x144" href="<?php echo url('assets/images/aapple-touch-icon-144x144.png') ?>">
+	<link rel="apple-touch-icon" sizes="57x57" href="<?php echo url('assets/images/apple-touch-icon-57x57.png') ?>">
+	<link rel="apple-touch-icon" sizes="72x72" href="<?php echo url('assets/images/apple-touch-icon-72x72.png') ?>">
+	<link rel="apple-touch-icon" sizes="114x114" href="<?php echo url('assets/images/apple-touch-icon-114x114.png') ?>">
+	<link rel="apple-touch-icon" sizes="144x144" href="<?php echo url('assets/images/apple-touch-icon-144x144.png') ?>">
 	<!-- Check Open Graph via http://developers.facebook.com/tools/debug -->
 	<meta property="og:title" content="<?php echo html($page->title()) ?> | <?php echo html($site->title()) ?>">
-	<meta property="og:url" content="http://<?php echo $_SERVER['HTTP_HOST'].'/'.$_SERVER['REQUEST_URI'] ?>">
+	<meta property="og:url" content="http://<?php echo $_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>">
 	<meta property="og:image" content="<?php echo url('assets/images/WWNRW.png') ?>"> 
 	<meta property="og:site_name" content="<?php echo html($site->title()) ?>">
 	<meta property="og:description" content="<?php echo html($page->description()) ?>">
