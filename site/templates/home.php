@@ -3,7 +3,7 @@
 	<main>
 		<article>
 			<div id="sliderFrame">
-				<div id="slider">
+				<div id="slider" style="background: url(<?php echo $page->images()->first()->url() ?>) no-repeat left top">
 					<?php
 					foreach($page->images() as $image){
 						echo '<img src="'.$image->url().'">';
