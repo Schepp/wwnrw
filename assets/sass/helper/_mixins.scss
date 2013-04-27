@@ -3,6 +3,14 @@
 	#{$property}: $sizeValue + rem;
 }
 
+@mixin hyphens($value: auto){
+	-webkit-hyphens: $value;
+	-moz-hyphens: $value;
+	-o-hyphens: $value;
+	-ms-hyphens: $value;
+	hyphens: $value;
+}
+
 @mixin clearfix {
 	zoom: 1;
 	

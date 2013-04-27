@@ -120,7 +120,7 @@ summary {
   zoom: 1;
   cursor: pointer;
 }
-/* line 9, ../sass/helper/_mixins.scss */
+/* line 17, ../sass/helper/_mixins.scss */
 summary:after {
   content: ' ';
   display: block;
@@ -136,10 +136,21 @@ summary:hover {
 p {
   font-size: 16px;
   font-size: 1rem;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -o-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
   text-align: justify;
 }
+@media screen and (max-device-width: 30em) {
+  /* line 47, ../sass/screen.scss */
+  p {
+    text-align: left;
+  }
+}
 
-/* line 52, ../sass/screen.scss */
+/* line 57, ../sass/screen.scss */
 header, article {
   margin-top: 32px;
   margin-top: 2rem;
@@ -151,7 +162,7 @@ header, article {
   padding-right: 2rem;
 }
 
-/* line 60, ../sass/screen.scss */
+/* line 65, ../sass/screen.scss */
 hr {
   width: 100%;
   height: 1px;
@@ -160,23 +171,23 @@ hr {
   border: none;
 }
 
-/* line 67, ../sass/screen.scss */
+/* line 72, ../sass/screen.scss */
 nav {
   display: table;
   table-layout: fixed;
   width: 100%;
 }
-/* line 72, ../sass/screen.scss */
+/* line 77, ../sass/screen.scss */
 nav ul {
   display: table-row;
 }
-/* line 75, ../sass/screen.scss */
+/* line 80, ../sass/screen.scss */
 nav li {
   display: table-cell;
   text-align: center;
 }
 
-/* line 81, ../sass/screen.scss */
+/* line 86, ../sass/screen.scss */
 .topics li {
   zoom: 1;
   margin-top: 32px;
@@ -185,14 +196,14 @@ nav li {
   margin-bottom: 2rem;
   display: block;
 }
-/* line 9, ../sass/helper/_mixins.scss */
+/* line 17, ../sass/helper/_mixins.scss */
 .topics li:after {
   content: ' ';
   display: block;
   clear: both;
   font-size: 0;
 }
-/* line 88, ../sass/screen.scss */
+/* line 93, ../sass/screen.scss */
 .topics img {
   -webkit-box-shadow: 0 0 10px #cdb89e;
   -moz-box-shadow: 0 0 10px #cdb89e;
@@ -204,7 +215,7 @@ nav li {
   border: 1px solid #FFF;
 }
 
-/* line 96, ../sass/screen.scss */
+/* line 101, ../sass/screen.scss */
 #map {
   -webkit-box-shadow: 0 0 10px #cdb89e;
   -moz-box-shadow: 0 0 10px #cdb89e;
@@ -219,7 +230,7 @@ nav li {
   border: 1px solid #FFF;
 }
 
-/* line 104, ../sass/screen.scss */
+/* line 109, ../sass/screen.scss */
 #sliderFrame, #slider {
   -webkit-box-shadow: 0 0 10px #cdb89e;
   -moz-box-shadow: 0 0 10px #cdb89e;

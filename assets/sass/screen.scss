@@ -46,8 +46,13 @@ summary {
 }
 p {
 	@include rem("font-size",1);
+	@include hyphens;
 	
 	text-align: justify;
+	
+	@media screen and (max-device-width: 30em){
+		text-align: left;
+	}
 }
 header, article {
 	@include rem("margin-top",2);
