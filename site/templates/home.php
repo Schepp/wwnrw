@@ -58,6 +58,7 @@
 			<p>Tel: 0211 / 835 68 26<br>
 			E-Mail: <a href='mailt&#111;&#58;s&#99;h%61&#37;&#54;5p&#112;&#64;&#103;m&#120;%2&#69;de'>schaepp&#64;gmx&#46;de</a><br>
 			Twitter: <a href="https://twitter.com/wwnrw">@wwnrw</a><br>
+			Facebook: <a href="http://www.facebook.com/wwnrw">Facebook</a><br>
 			Google+: <a href="https://plus.google.com/109970663953331374396" rel="publisher">Google+</a></p>
 			<p>Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV: Christian Schaefer (Anschrift wie oben)</p>
 		</article>
