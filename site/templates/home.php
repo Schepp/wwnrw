@@ -38,7 +38,7 @@
 		<hr>
 		<article>
 			<h2>Location</h2>
-			<p>Coworking Space Garage Bilk<br>
+			<p>Coworking Space GarageBilk<br>
 			im Hinterhof<br>
 			Bilker Allee 217<br>
 			40215 Düsseldorf</p>
