@@ -1,0 +1,9 @@
+Title: AngularJS - Ein Framework als Googles Vision vom zukünftigen Web
+----
+Author: Sascha Brink & Robin Böhm
+----
+Twitter: angularjs_de
+----
+Description:
+----
+Text: Robin Böhm und Sascha Brink stellen AngularJS als clientseitiges JavaScript-Framework vor. Im Moment gibt es einen Hype um das Google-Framework. Ist dieser berechtigt? Wir zeigen anhand von Beispielen, ob es wirklich so gut ist, für wen es sich lohnt und ob jQuery jetzt zum alten Eisen gehört.
