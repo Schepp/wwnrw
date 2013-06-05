@@ -7,4 +7,5 @@ Twitter: ChrisBurchartz
 Description:
 ----
 Text: Wo man nur hinschaut – alle sind agil! Projektmanager feiern agile Methoden wie Scrum, Kanban oder XP als die Revolution und den Heilsbringer für die gesamte Branche. Schnell kommt es zu Übergeneralisierungen – besonders da vielen Beteiligten der Begriff unklar ist und er somit eine wenig trennscharfe Verwendung findet.
+
 Es wird also Zeit, sich einmal der Definition, Abgrenzung und der Reichweite der agilen Methodik zu widmen und in diesem Zuge den Versuch einer realistischen Positionierung zu unternehmen.  
