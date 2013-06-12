@@ -26,7 +26,7 @@
 			$themen = $naechstestreffen->children();
 			foreach($themen as $thema){
 				echo '<li>';
-				echo '<img src="http://api.twitter.com/1/users/profile_image?screen_name='.$thema->twitter().'&size=bigger" width="73" height="73">';
+				#echo '<img src="http://api.twitter.com/1/users/profile_image?screen_name='.$thema->twitter().'&size=bigger" width="73" height="73">';
 				echo '<h3>'.html($thema->title()).'<br><small>'.html($thema->author()).'</small></h3>';
 				echo kirbytext($thema->text());
 				echo '</li>';
