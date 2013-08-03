@@ -1,0 +1,9 @@
+Title: Eine Einführung in Require.JS
+----
+Author: Frederic Hemberger
+----
+Twitter: 
+----
+Description:
+----
+Text: TBD
