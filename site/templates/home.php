@@ -19,7 +19,7 @@
 		<hr>
 		<article>
 			<?php 
-			$naechstestreffen = $pages->find('treffen')->children->first();
+			$naechstestreffen = $pages->find('treffen')->children->last();
 			echo '<h2>Nächstes Treffen: Do. '.html($naechstestreffen->datum()).'</h2>';
 			echo '<ul class="topics">';
 			
