@@ -18,11 +18,11 @@
 		</article>
 		<hr>
 		<article>
-			<?php 
+			<?php
 			$naechstestreffen = $pages->find('treffen')->children->last();
 			echo '<h2>Nächstes Treffen: Do. '.html($naechstestreffen->datum()).'</h2>';
 			echo '<ul class="topics">';
-			
+
 			$themen = $naechstestreffen->children();
 			foreach($themen as $thema){
 				echo '<li>';
@@ -31,7 +31,7 @@
 				echo kirbytext($thema->text());
 				echo '</li>';
 			}
-			
+
 			echo '</ul>';
 			?>
 		</article>
@@ -61,6 +61,8 @@
 			Facebook: <a href="http://www.facebook.com/wwnrw">Facebook</a><br>
 			Google+: <a href="https://plus.google.com/109970663953331374396" rel="publisher">Google+</a></p>
 			<p>Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV: Christian Schaefer (Anschrift wie oben)</p>
+
+			<p>Vielen Dank an <a href="http://www.twitter.com/derPepo">@derPepo</a> von <a href="http://www.elektrowecker.de">elektrowecker.de (Webdesign aus Bottrop)</a> für das zur Verfügung stellen der Domain webworker-nrw.de</p>
 		</article>
 	</main>
 <?php snippet('footer') ?>
