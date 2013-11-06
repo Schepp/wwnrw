@@ -1,4 +1,4 @@
-Title: 19:30h - Release-Management & Continuous Integration
+Title: Release-Management & Continuous Integration
 ----
 Author: Christian Wenzel & Manuel Meinhard
 ----

@@ -98,6 +98,25 @@ nav {
 		border: 1px solid #FFF;
 	}
 }
+.archive {
+	li {
+		@include clearfix;
+		@include rem("margin-top",0);
+		@include rem("margin-bottom",1);
+
+		display: block;
+		
+		ul {
+			margin-top: 0;
+		}
+	}
+	h3 {
+		margin-bottom: 0;
+	}
+	strong {
+		@include rem("font-size",1.25);
+	}
+}
 #map {
 	@include box-shadow(0 0 10px #cdb89e);
 	@include border-box;

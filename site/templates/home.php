@@ -26,7 +26,6 @@
 			$themen = $naechstestreffen->children();
 			foreach($themen as $thema){
 				echo '<li>';
-				#echo '<img src="http://api.twitter.com/1/users/profile_image?screen_name='.$thema->twitter().'&size=bigger" width="73" height="73">';
 				echo '<h3>'.html($thema->title()).'<br><small>'.html($thema->author()).'</small></h3>';
 				echo kirbytext($thema->text());
 				echo '</li>';
@@ -34,6 +33,29 @@
 
 			echo '</ul>';
 			?>
+		</article>
+		<hr>
+		<article>
+			<h2>Vergangene Treffen</h2>
+            <ul class="archive">
+			<?php
+			$vergangenetreffen = $pages->find('treffen')->children()->flip()->offset(1);
+
+			foreach($vergangenetreffen as $treffen){
+				$themenarray = array();
+				$themen = $treffen->children();
+				foreach($themen as $thema){
+					$themenarray[] = '<strong>'.html($thema->title()).'</strong><br><em>'.html($thema->author()).'</em>';
+				}
+				if(count($themenarray)){
+					echo '<li>
+						<h3>Do. '.html($treffen->datum()).'</h3>
+						<ul><li>'.implode('</li><li>',$themenarray).'</li></ul>
+					</li>';
+				}
+			}
+			?>
+            </ul>
 		</article>
 		<hr>
 		<article>

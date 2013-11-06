@@ -1,4 +1,4 @@
-Title: 21:00h - Moderner Webdesign-Workflow
+Title: Moderner Webdesign-Workflow
 ----
 Author: Stefan Nitzsche
 ----

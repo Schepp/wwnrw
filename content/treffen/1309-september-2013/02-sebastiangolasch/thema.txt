@@ -1,9 +1,0 @@
-Title: 20:00h - Automatisiertes Testen von User Interfaces
-----
-Author: Sebastian Golasch
-----
-Twitter: @asciidisco
-----
-Description:
-----
-Text: Testing webpages is the inglorious bastard of our time. After we tamed this beast called 'Unit testing' it is now time to shift our frontlines to another topic. This times it`s all about your UI. And no, we`re not going to penetrate our old enemy Selenium, no we're not fighting in the ruby-ish fields of Watir, no my friends, this time it's JavaScripts move to exterminate your bugs once and for all. (keine Sorge Vortrag ist auf Deutsch)
