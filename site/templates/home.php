@@ -84,7 +84,7 @@
 			Google+: <a href="https://plus.google.com/109970663953331374396" rel="publisher">Google+</a></p>
 			<p>Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV: Christian Schaefer (Anschrift wie oben)</p>
 			<hr>
-			<p>Vielen Dank an <a href="https://twitter.com/derPepo">@derPepo</a> von <a href="http://www.elektrowecker.de" title="Webdesign aus Bottrop">elektrowecker.de (Webdesign aus Bottrop)</a> für das Zurverfügungstellen der Domain webworker-nrw.de</p>
+			<p>Vielen Dank an <a href="https://twitter.com/derPepo">@derPepo</a> von <a href="http://www.elektrowecker.de" title="Webdesign aus Bottrop">elektrowecker.de (Webdesign aus Bottrop)</a> für das Bereitstellen der Domain webworker-nrw.de</p>
 		</article>
 	</main>
 <?php snippet('footer') ?>
