@@ -1,0 +1,9 @@
+Title: Styleguides
+----
+Author: Hans Christian Reinl
+----
+Twitter:
+----
+Description:
+----
+Text: Als Entwickler hat man öfters mal so seine Schwierigkeiten zu verstehen, was der Designer genau von einem haben möchte. Andersherum fragt man sich als Designer manchmal, warum der Entwickler nicht einfach das umsetzt, was man ihm gegeben hat. Um am Ende gute Arbeit abliefern zu können ist es jedoch essentiell, dass sich beide Seiten verstehen. Hans Christian zeigt uns, wie dieses Vorhaben mit richtig aufgezogenen Styleguides gelingen kann.

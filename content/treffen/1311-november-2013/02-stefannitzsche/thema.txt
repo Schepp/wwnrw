@@ -1,9 +1,0 @@
-Title: Der Post-PSD-Workflow
-----
-Author: Stefan Nitzsche
-----
-Twitter:
-----
-Description:
-----
-Text: Die Zukunft des Webdesign kann nicht mehr nur Photoshop alleine sein. Responsive Webdesign auf der einen und Agilität auf der anderen Seite zwingen uns, unsere Designarbeit schon früh in den Browser zu verlagern. Nur dort sehen und erleben wir unsere Idee in seinem nativen Lebensraum. Und erst die Programmierbarkeit des Browsers macht es möglich, schnell über Design- und Layoutvarianten zu iterieren. Photoshop ist bei diesem neuen Designprozess weiterhin mit im Boot, findet seine Rolle allerdings nun in der Bewältigung ganz bestimmter Teilaufgaben.
