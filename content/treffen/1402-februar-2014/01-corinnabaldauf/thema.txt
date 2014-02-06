@@ -6,4 +6,7 @@ Twitter: @pallas23
 ----
 Description:
 ----
-Text: Intuitiv verständlich ist alles, was mit wenig Aufwand in kurzer Zeit richtig verstanden werden kann. Dieses Ideal verfolgt der Clean Code Ansatz. Vorteile von Clean Code sind stabilere und wartbarere Programme, d.h. kürzere Entwicklungszeiten bei Funktionserweiterung und Fehlerbehebungen. Die Bedeutung wächst mit der Beobachtung, dass im Schnitt 80 % der Lebensdauer einer Software auf den Wartungszeitraum entfällt. Corinna zeigt Euch, wie auch Ihr entsprechenden Code schreiben könnt.
+Text: Code wird öfter gelesen als geschrieben. 80 % der Lebensdauer einer Software entfallen im Schnitt auf den Wartungszeitraum. Leider ist es im Normalfall mühsam sich in Code einzulesen - sogar in eigenen, wenn er nur genügend alt ist. (Also ca. 2 Wochen alt.)
+
+Die Clean Code Bewegung möchte das verbessern, damit wir alle in Zukunft leicht lesbaren, wartbaren und erweiterbaren Code erzeugen bzw. vorfinden. Corinna stellt Clean Code im Allgemeinen, sowie ein paar konkrete Methoden am praktischen Beispiel vor.
+
