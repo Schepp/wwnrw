@@ -1,4 +1,4 @@
-Title: Clean Code
+Title: Clean Code: Lesbar, wartbar, erweiterbar
 ----
 Author: Corinna Baldauf
 ----
@@ -6,7 +6,13 @@ Twitter: @pallas23
 ----
 Description:
 ----
-Text: Code wird öfter gelesen als geschrieben. 80 % der Lebensdauer einer Software entfallen im Schnitt auf den Wartungszeitraum. Leider ist es im Normalfall mühsam sich in Code einzulesen - sogar in eigenen, wenn er nur genügend alt ist. (Also ca. 2 Wochen alt.)
+Text: "Oje, der Code ist ja schlimm. Wer hat den Mist denn verbrochen?"
+*klick*klick*tippitytipp* … "Oh. Ich. Hups. Dann kann ich nicht mal wen fragen, was das Gekröse hier macht… Mist!"
 
-Die Clean Code Bewegung möchte das verbessern, damit wir alle in Zukunft leicht lesbaren, wartbaren und erweiterbaren Code erzeugen bzw. vorfinden. Corinna stellt Clean Code im Allgemeinen, sowie ein paar konkrete Methoden am praktischen Beispiel vor.
+Code lesen ist oft mühsam. Sogar wenn man ihn selbst geschrieben hat - es muss nur genügend lange her sein. Das ist suboptimal, wenn man bedenkt, dass 80% der Lebensdauer einer Software auf den Wartungszeitraum entfallen. Code wird also viel öfter gelesen als geschrieben. Was tun?
+
+Die Clean Code Bewegung arbeitet daran, dass wir Entwickler Verantwortung übernehmen und lesbaren, wartbaren und erweiterbaren Code schreiben.
+
+Anstatt alle Methoden aufzuzählen, geht Corinna auf einige konkrete Beispiele ein und zeigt wann und wie man Code verbessern kann.
+
 
