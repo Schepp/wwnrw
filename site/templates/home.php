@@ -45,7 +45,12 @@
 				$themenarray = array();
 				$themen = $treffen->children();
 				foreach($themen as $thema){
-					$themenarray[] = '<strong>'.html($thema->title()).'</strong><br><em>'.html($thema->author()).'</em>';
+					$currentthema = '<strong>';
+                    $currentthema .= html($thema->title());
+                    $currentthema .= '</strong>';
+                    if((bool) $thema->material()) $currentthema .= ' (<a href="'.html($thema->material()).'">Material</a>)';
+                    $currentthema .= '<br><em>'.html($thema->author()).'</em>';
+                    $themenarray[] = $currentthema;
 				}
 				if(count($themenarray)){
 					echo '<li>

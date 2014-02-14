@@ -7,3 +7,5 @@ Twitter: @fhemberger
 Description:
 ----
 Text: Die Sicherheit von Webseiten wird von vielen Frontend-Entwicklern gerne als "Backend-Thema" abgeschoben – zu Unrecht, wenn man bedenkt, dass die meisten Angriffe das Einschleusen von Schadcode über das Frontend voraussetzen. Aber man kann auch mit einfachen Handgriffen potentiellen Angreifern ihre Arbeit deutlich erschweren. Deshalb erzählt uns Frederic über die Grundlagen von Cross-Site-Scripting (XSS), böse Iframes, geklaute Klicks und Content-Security-Policy im Browser.
+----
+Material: http://fhemberger.github.io/talks/web-security/
