@@ -93,9 +93,13 @@
         <article>
             <h2>Danksagungen</h2>
 
+            <p><img src="<?php echo url('assets/images/logo-garagebilk.png') ?>" width="128" height="54"></p>
+
+            <p>Vielen Dank an den <a href="http://www.garagebilk.de/">Coworking Space GarageBilk</a> für das Bereitstellen der Räumlichkeiten! <3</p>
+
             <p><img src="<?php echo url('assets/images/logo-blanko.png') ?>" width="125" height="22"></p>
 
-            <p>Vielen Dank an <a href="http://blanko.biz">die beste Agentur der Welt</a> für das Sponsoring der Räumlichkeiten! <3</p>
+            <p>Und vielen Dank an <a href="http://blanko.biz">die beste Agentur der Welt</a> für das Sponsoring der Raumkosten! <3</p>
 
             <p><img src="<?php echo url('assets/images/logo-elektrowecker.png') ?>" width="101" height="25"></p>
 
