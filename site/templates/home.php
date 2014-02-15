@@ -95,11 +95,15 @@
 
             <p><img src="<?php echo url('assets/images/logo-blanko.png') ?>" width="125" height="22"></p>
 
-            <p>Vielen Dank an <a href="http://blanko.biz">die beste Agentur der Welt</a> für das Sponsoring der Räumlichkeiten!</p>
+            <p>Vielen Dank an <a href="http://blanko.biz">die beste Agentur der Welt</a> für das Sponsoring der Räumlichkeiten! <3</p>
 
             <p><img src="<?php echo url('assets/images/logo-elektrowecker.png') ?>" width="101" height="25"></p>
 
-			<p>Ebenso vielen Dank an <a href="https://twitter.com/derPepo">@derPepo</a> von <a href="http://www.elektrowecker.de" title="Webdesign aus Bottrop">elektrowecker.de (Webdesign aus Bottrop)</a> für das Bereitstellen der Domain webworker-nrw.de</p>
+			<p>Ebenso vielen Dank an <a href="https://twitter.com/derPepo">@derPepo</a> von <a href="http://www.elektrowecker.de" title="Webdesign aus Bottrop">elektrowecker.de (Webdesign aus Bottrop)</a> für das Bereitstellen der Domain webworker-nrw.de! <3</p>
+
+            <p><img src="<?php echo url('assets/images/logo-ovau.png') ?>" width="76" height="39"></p>
+
+            <p>Und nicht zuletzt danke an <a href="http://ovau.de">Oliver Vaupel</a> für das Entwickeln und Beisteuern eines fantatsischen Logos! <3</p>
 		</article>
 	</main>
 <?php snippet('footer') ?>
