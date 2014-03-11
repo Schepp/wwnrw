@@ -6,4 +6,4 @@ Twitter:
 ----
 Description:
 ----
-Text: Dass die Ladezeit wichtig ist hat sich mittlerweile herumgesprochen. Und jeder kennt Begriffe wie Concatenierung, Minifizierung oder CSS Sprites. Nun geht es nun darum, eine weitere Stufe zu zünden: Wie können wir mit neuem HTML5-Markup den Ladevorgang besser steuern?
+Text: Dass die Ladezeit wichtig ist hat sich mittlerweile herumgesprochen. Und jeder kennt Begriffe wie Concatenierung, Minifizierung oder CSS Sprites. Nun geht es darum, eine weitere Stufe zu zünden: Wie können wir mit neuem HTML5-Markup den Ladevorgang besser steuern?
