@@ -1,6 +1,6 @@
 Title: Automatisiertes Fehlertesting von Seitenlayouts
 ----
-Author: Sebastian Golasch
+Author: Timm Jansen
 ----
 Twitter:
 ----
