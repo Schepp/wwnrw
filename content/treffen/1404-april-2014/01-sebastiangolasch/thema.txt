@@ -1,0 +1,11 @@
+Title: Automatisiertes Fehlertesting von Seitenlayouts
+----
+Author: Sebastian Golasch
+----
+Twitter:
+----
+Description:
+----
+Text: TBA
+----
+Material:
