@@ -10,4 +10,4 @@ Text: Der größte Feind eines jeden Web-Entwicklers ist das Deployment von neue
 
 Einen neuen Ansatz in diesem Rahmen bietet [SiteEffect](http://siteeffect.io). Durch das Testing Framework lassen sich vollautomatisiert und ohne projektspezifische Kosten Inhalts-, Style- und Layoutveränderungen effektiv erkennen und dazu über eine UI einfach analysieren. Timm Jansen stellt dazu den aktuellen Stand des Frameworks vor.
 ----
-Material:
+Material: http://siteeffect.io/se-ddd/

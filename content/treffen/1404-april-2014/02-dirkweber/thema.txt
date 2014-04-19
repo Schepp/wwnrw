@@ -7,3 +7,5 @@ Twitter:
 Description:
 ----
 Text: Der Designer und Computerartist Dirk Weber experimentiert und hantiert seit vielen Jahren mit fortgeschrittenen Techniken in CSS und SVG. Dabei bewegt er sich sicher auf 2D- wie auch auf 3D-Terrain, und liebt das Standbild ebenso wie das Bewegtbild. Zugute kommt ihm seine langjährige Erfahrung aus dem Flashbereich. Am Donnerstag lüftet Dirk nicht nur das Geheimnis darum wie er wohl in Fleisch und Blut aussieht (und ob ihm auch da Blitze aus dem Schädel schießen), nein, er lässt uns obendrein ein wenig an seinen Forschungen teilhaben.
+----
+Material: http://www.eleqtriq.net/WWNRW-SVG.zip
