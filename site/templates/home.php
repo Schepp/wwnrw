@@ -28,7 +28,7 @@
 				echo '<li>';
 				echo '<h3>'.html($thema->title()).'<br><small>'.html($thema->author()).'</small></h3>';
 				echo kirbytext($thema->text());
-                if((bool) $thema->material() && !!trim(strval($thema->material()))) echo '(<a href="'.html($thema->material()).'">Material</a>)';
+                if((bool) $thema->material() && !!trim(strval($thema->material())) && strlen(strval($thema->material())) > 0) echo '(<a href="'.html($thema->material()).'">Material</a>)';
 				echo '</li>';
 			}
 
