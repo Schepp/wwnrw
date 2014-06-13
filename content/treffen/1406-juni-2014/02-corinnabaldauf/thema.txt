@@ -12,4 +12,4 @@ Text: „Tja, gute User Experience und benutzerfreundliche Oberflächen hätten 
 Ab jetzt gibt’s keine Ausreden mehr. Corinna zeigt 3 Arten von Usability Tests die ihr mit einem Minimum an Zeit und Geld machen könnt. Angefangen bei Steve Krug über Hallway Usability Tests hin zu Kneipen-Tests. Für Software, die begeistert!
 
 ----
-Material:
+Material: https://docs.google.com/presentation/d/1KfBtbXKtaa_jDgSQQNm5HQswEh5XNw0FWWdGgfhcLeg/edit
