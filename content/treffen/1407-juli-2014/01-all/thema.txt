@@ -1,0 +1,12 @@
+Title: Einführungen in Grunt und Github
+----
+Author:
+----
+Twitter:
+----
+Description:
+
+----
+Text: Es wird diesmal keine Vorträge geben, dafür aber kleine Einführungen/Hands-ons/Workshops zu Grunt und Github, gegeben von denen die damit schon arbeiten. Gerne spontan auch zu anderen Themen.
+----
+Material:
