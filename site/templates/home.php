@@ -28,7 +28,7 @@
 				echo '<li>';
 				echo '<h3>'.html($thema->title()).'<br><small>'.html($thema->author()).'</small></h3>';
 				echo kirbytext($thema->text());
-                if((bool) $thema->material() && trim(strval($thema->material()))) echo '(<a href="'.html($thema->material()).'">Material</a>)';
+                if((bool) $thema->material() && !!trim(strval($thema->material()))) echo '(<a href="'.html($thema->material()).'">Material</a>)';
 				echo '</li>';
 			}
 
@@ -49,7 +49,7 @@
 					$currentthema = '<strong>';
                     $currentthema .= html($thema->title());
                     $currentthema .= '</strong>';
-                    if((bool) $thema->material()) $currentthema .= ' (<a href="'.html($thema->material()).'">Material</a>)';
+                    if((bool) $thema->material() && !!trim(strval($thema->material()))) $currentthema .= ' (<a href="'.html($thema->material()).'">Material</a>)';
                     $currentthema .= '<br><em>'.html($thema->author()).'</em>';
                     $themenarray[] = $currentthema;
 				}
