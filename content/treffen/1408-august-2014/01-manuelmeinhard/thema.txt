@@ -9,4 +9,4 @@ Description:
 ----
 Text: (BDD) (Verhaltensgetriebene Softwareentwicklung) ist eine Technik der Agilen Softwareentwicklung, welche die Zusammenarbeit zwischen Qualitätsmanagement und Business-Analyse in Softwareentwicklungsprojekten stärkt. Beim Behavior Driven Development werden während der Anforderungsanalyse die Aufgaben, Ziele und Ergebnisse der Software derart textuell festgehalten, dass diese später automatisiert auf ihre korrekte Implementierung getestet werden können.
 ----
-Material: https://docs.google.com/presentation/d/1KfBtbXKtaa_jDgSQQNm5HQswEh5XNw0FWWdGgfhcLeg/edit
+Material:
