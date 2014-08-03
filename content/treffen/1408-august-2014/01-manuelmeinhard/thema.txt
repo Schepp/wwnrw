@@ -1,0 +1,13 @@
+Title: Designerwerkzuege für Responsive Webdesign
+----
+Author: Oliver Vaupel
+----
+Twitter:
+----
+Description:
+
+----
+Text: Oliver hat sich in den vergangenen Monaten Adobe Edge Reflow, Macaw sowie Antetype genauer angeschaut. Alle versprechen Sie geeignetere Werkzeuge für Responsive Webdesign zu sein, als der Klassiker Photoshop. Oliver wird sie uns kurz vorstellen und zeigen, was an der Behauptung dran ist.
+
+----
+Material:
