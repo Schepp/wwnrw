@@ -1,0 +1,9 @@
+Title: Web Components
+----
+Author: Peter Kröner
+----
+Twitter: sir_pepe 
+----
+Description:
+----
+Text: Web Components sind eine der zentralen Zukunftstechnologien im WWW. Mit Web Components können Webdesigner und Frontendentwickler HTML selbst erweitern und komplett eigene Elemente entwerfen. Diese gekapselten Komponenten erlauben erstmals wirklich modulare Frontend-Entwicklung und den Austausch von Web-Modulen zwischen Projekten, machen Web-Frontends robuster und erlauben auch HTML-Novizen das Einbetten komplexer Funktionalitäten. Der Talk beleuchtet die Hintergründe zu den neuen Webstandards hinter Web Components und erklärt, wie jedermann mit Hilfe von Googles Polymer-Projekt bereits heute eigene Web Components erstellen und einsetzen kann.
