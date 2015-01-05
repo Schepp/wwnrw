@@ -6,7 +6,7 @@
 				<div id="slider" style="background: url(<?php echo $page->images()->first()->url() ?>) no-repeat left top">
 					<?php
 					foreach($page->images() as $image){
-						echo '<img src="'.$image->url().'">';
+						echo '<img src="//wit.wurfl.io/http://'.$_SERVER['HTTP_HOST'].'/'.$image->url().'">';
 					}
 					?>
 				</div>
@@ -107,6 +107,8 @@
 			<p>Ebenso vielen Dank an <a href="https://twitter.com/derPepo">@derPepo</a> von <a href="http://www.elektrowecker.de" title="Webdesign aus Bottrop">elektrowecker.de (Webdesign aus Bottrop)</a> für das Bereitstellen der Domain webworker-nrw.de! <3</p>
 
             <p><img src="<?php echo url('assets/images/logo-ovau.png') ?>" width="76" height="39"></p>
+
+			<p>Vielen Dank auch an <a href="https://twitter.com/labuero">Christian Siedler</a> für die tollen Fotos! <3</p>
 
             <p>Und nicht zuletzt danke an <a href="http://ovau.de">Oliver Vaupel</a> für das Entwickeln und Beisteuern eines fantatsischen Logos! <3</p>
 		</article>
