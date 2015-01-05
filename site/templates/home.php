@@ -6,7 +6,7 @@
 				<div id="slider" style="background: url(<?php echo $page->images()->first()->url() ?>) no-repeat left top">
 					<?php
 					foreach($page->images() as $image){
-						echo '<img src="//wit.wurfl.io/http://'.$_SERVER['HTTP_HOST'].'/'.$image->url().'">';
+						echo '<img src="//wit.wurfl.io/'.$image->url().'">';
 					}
 					?>
 				</div>
