@@ -274,8 +274,3 @@ nav li {
   overflow: hidden;
   border: 1px solid #FFF;
 }
-/* line 152, ../sass/screen.scss */
-#sliderFrame img, #slider img {
-  width: 100%;
-  height: auto;
-}
