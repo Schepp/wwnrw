@@ -12,4 +12,4 @@ Ola’s talk covers the philosophy behind and state of offline support on the we
 
 You'll also get a short introduction how to build applications with Hoodie.
 
-(der Talk ist auf Deutsch :-)
+(Der Talk ist auf Deutsch :-)
