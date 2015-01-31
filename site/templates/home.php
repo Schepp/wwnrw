@@ -55,7 +55,7 @@
 				}
 				if(count($themenarray)){
 					echo '<li>
-						<h3>Do. '.html($treffen->datum()).'</h3>
+						<h3>'.html($treffen->datum()).'</h3>
 						<ul><li>'.implode('</li><li>',$themenarray).'</li></ul>
 					</li>';
 				}
