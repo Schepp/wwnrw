@@ -1,0 +1,9 @@
+Title: Docker
+----
+Author: Dennis Benkert
+----
+Twitter: denderello
+----
+Description:
+----
+Text: Docker erlaubt es, Webanwendungen in Container zu verpacken, die überall laufen; sowohl auf dem Rechner des Entwicklers als auch auf einem Server oder in einer VM. Docker erfährt gerade einen regelrechten Hype und so ist es nicht verwunderlich, dass es erste Startups gibt, die sich auf Services rund um Docker spezialisieren. GiantSwarm aus Köln ist so ein Startup und schickt uns freundlicherweise Dennis Benkert vorbei, um uns die in Vorzüge von, und die Arbeit mit Docker einzuweihen.

@@ -70,7 +70,7 @@ html {
   color: #000;
 }
 
-/* line 10, ../sass/screen.scss */
+/* line 11, ../sass/screen.scss */
 body {
   max-width: 664px;
   max-width: 41.5rem;
@@ -79,43 +79,43 @@ body {
   line-height: 1.2;
 }
 
-/* line 17, ../sass/screen.scss */
+/* line 19, ../sass/screen.scss */
 a {
   color: #CC0106;
 }
 
-/* line 20, ../sass/screen.scss */
+/* line 23, ../sass/screen.scss */
 h1, h2, h3, h4, h5, h6, p, details, nav, #map {
   margin-bottom: 16px;
   margin-bottom: 1rem;
 }
 
-/* line 23, ../sass/screen.scss */
+/* line 27, ../sass/screen.scss */
 h1, h2 {
   color: #83ab17;
   font-size: 28px;
   font-size: 1.75rem;
 }
 
-/* line 27, ../sass/screen.scss */
+/* line 32, ../sass/screen.scss */
 h3, h4, h5, h6, nav, summary {
   color: #cc0106;
   font-size: 20px;
   font-size: 1.25rem;
 }
-/* line 31, ../sass/screen.scss */
+/* line 36, ../sass/screen.scss */
 h3 small, h4 small, h5 small, h6 small, nav small, summary small {
   font-size: 16px;
   font-size: 1rem;
 }
 
-/* line 35, ../sass/screen.scss */
+/* line 41, ../sass/screen.scss */
 details {
   padding-bottom: 16px;
   padding-bottom: 1rem;
 }
 
-/* line 38, ../sass/screen.scss */
+/* line 45, ../sass/screen.scss */
 summary {
   zoom: 1;
   cursor: pointer;
@@ -127,12 +127,12 @@ summary:after {
   clear: both;
   font-size: 0;
 }
-/* line 43, ../sass/screen.scss */
+/* line 50, ../sass/screen.scss */
 summary:hover {
   text-decoration: underline;
 }
 
-/* line 47, ../sass/screen.scss */
+/* line 55, ../sass/screen.scss */
 p {
   font-size: 16px;
   font-size: 1rem;
@@ -144,13 +144,13 @@ p {
   text-align: justify;
 }
 @media screen and (max-device-width: 30em) {
-  /* line 47, ../sass/screen.scss */
+  /* line 55, ../sass/screen.scss */
   p {
     text-align: left;
   }
 }
 
-/* line 57, ../sass/screen.scss */
+/* line 66, ../sass/screen.scss */
 header, article {
   margin-top: 32px;
   margin-top: 2rem;
@@ -162,7 +162,7 @@ header, article {
   padding-right: 2rem;
 }
 
-/* line 65, ../sass/screen.scss */
+/* line 76, ../sass/screen.scss */
 hr {
   width: 100%;
   height: 1px;
@@ -171,23 +171,23 @@ hr {
   border: none;
 }
 
-/* line 72, ../sass/screen.scss */
+/* line 84, ../sass/screen.scss */
 nav {
   display: table;
   table-layout: fixed;
   width: 100%;
 }
-/* line 77, ../sass/screen.scss */
+/* line 89, ../sass/screen.scss */
 nav ul {
   display: table-row;
 }
-/* line 80, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 nav li {
   display: table-cell;
   text-align: center;
 }
 
-/* line 86, ../sass/screen.scss */
+/* line 99, ../sass/screen.scss */
 .topics li {
   zoom: 1;
   margin-top: 32px;
@@ -203,7 +203,7 @@ nav li {
   clear: both;
   font-size: 0;
 }
-/* line 93, ../sass/screen.scss */
+/* line 106, ../sass/screen.scss */
 .topics img {
   -webkit-box-shadow: 0 0 10px #cdb89e;
   -moz-box-shadow: 0 0 10px #cdb89e;
@@ -215,7 +215,7 @@ nav li {
   border: 1px solid #FFF;
 }
 
-/* line 102, ../sass/screen.scss */
+/* line 116, ../sass/screen.scss */
 .archive li {
   zoom: 1;
   margin-top: 0px;
@@ -231,21 +231,21 @@ nav li {
   clear: both;
   font-size: 0;
 }
-/* line 109, ../sass/screen.scss */
+/* line 123, ../sass/screen.scss */
 .archive li ul {
   margin-top: 0;
 }
-/* line 113, ../sass/screen.scss */
+/* line 127, ../sass/screen.scss */
 .archive h3 {
   margin-bottom: 0;
 }
-/* line 116, ../sass/screen.scss */
+/* line 130, ../sass/screen.scss */
 .archive strong {
   font-size: 20px;
   font-size: 1.25rem;
 }
 
-/* line 120, ../sass/screen.scss */
+/* line 135, ../sass/screen.scss */
 #map {
   -webkit-box-shadow: 0 0 10px #cdb89e;
   -moz-box-shadow: 0 0 10px #cdb89e;
@@ -260,7 +260,7 @@ nav li {
   border: 1px solid #FFF;
 }
 
-/* line 128, ../sass/screen.scss */
+/* line 144, ../sass/screen.scss */
 #sliderFrame, #slider {
   -webkit-box-shadow: 0 0 10px #cdb89e;
   -moz-box-shadow: 0 0 10px #cdb89e;
