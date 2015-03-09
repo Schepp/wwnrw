@@ -105,11 +105,11 @@
 
             <p><img src="<?php echo url('assets/images/logo-elektrowecker.png') ?>" width="101" height="25"></p>
 
-            <p>Danke an <a href="http://www.jetbrains.com/">JetBrains</a> für das Sponsoring von Softwarelizenzen! <3</p>
+            <p>Ebenso vielen Dank an <a href="https://twitter.com/derPepo">@derPepo</a> von <a href="http://www.elektrowecker.de" title="Webdesign aus Bottrop">elektrowecker.de (Webdesign aus Bottrop)</a> für das Bereitstellen der Domain webworker-nrw.de! <3</p>
 
             <p><img src="<?php echo url('assets/images/logo_jetbrains.png') ?>" width="100" height="32"></p>
 
-			<p>Ebenso vielen Dank an <a href="https://twitter.com/derPepo">@derPepo</a> von <a href="http://www.elektrowecker.de" title="Webdesign aus Bottrop">elektrowecker.de (Webdesign aus Bottrop)</a> für das Bereitstellen der Domain webworker-nrw.de! <3</p>
+            <p>Danke an <a href="http://www.jetbrains.com/">JetBrains</a> für das Sponsoring von Softwarelizenzen! <3</p>
 
             <p><img src="<?php echo url('assets/images/logo-ovau.png') ?>" width="76" height="39"></p>
 
