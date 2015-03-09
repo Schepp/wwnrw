@@ -113,7 +113,7 @@
 
             <p><img src="<?php echo url('assets/images/logo-ovau.png') ?>" width="76" height="39"></p>
 
-            <p>Vielen Dank auch an <a href="http://ovau.de">Oliver Vaupel</a> für das Entwickeln und Beisteuern eines fantatsischen Logos! <3</p>
+            <p>Vielen Dank auch an <a href="http://ovau.de">Oliver Vaupel</a> für das Entwickeln und Beisteuern eines fantastischen Logos! <3</p>
 
             <p>Und nicht zuletzt danke an <a href="https://twitter.com/labuero">Christian Siedler</a> für die tollen Fotos! <3</p>
 
