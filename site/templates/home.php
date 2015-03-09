@@ -84,8 +84,9 @@
 			Erasmusstraße 5<br>
 			40223 Düsseldorf</p>
 			<p>Tel: 0211 / 835 68 26<br>
-			E-Mail: <a href='mailt&#111;&#58;s&#99;h%61&#37;&#54;5p&#112;&#64;&#103;m&#120;%2&#69;de'>schaepp&#64;gmx&#46;de</a><br>
-			Twitter: <a href="https://twitter.com/wwnrw">@wwnrw</a><br>
+			E-Mail: <a href="mailt&#111;&#58;s&#99;h%61&#37;&#54;5p&#112;&#64;&#103;m&#120;%2&#69;de">schaepp&#64;gmx&#46;de</a><br>
+            Meetup.com: <a href="http://www.meetup.com/Webworker-NRW/">Webworker NRW</a><br>
+            Twitter: <a href="https://twitter.com/wwnrw">@wwnrw</a><br>
 			Facebook: <a href="http://www.facebook.com/wwnrw">Facebook</a><br>
 			Google+: <a href="https://plus.google.com/109970663953331374396" rel="publisher">Google+</a></p>
 			<p>Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV: Christian Schaefer (Anschrift wie oben)</p>
@@ -103,6 +104,10 @@
             <p>Und vielen Dank an <a href="http://blanko.biz">die beste Agentur der Welt</a> für das Sponsoring der Raumkosten! <3</p>
 
             <p><img src="<?php echo url('assets/images/logo-elektrowecker.png') ?>" width="101" height="25"></p>
+
+            <p>Danke an <a href="http://www.jetbrains.com/">JetBrains</a> für das Sponsoring von Softwarelizenzen! <3</p>
+
+            <p><img src="<?php echo url('assets/images/logo_jetbrains.png') ?>" width="100" height="32"></p>
 
 			<p>Ebenso vielen Dank an <a href="https://twitter.com/derPepo">@derPepo</a> von <a href="http://www.elektrowecker.de" title="Webdesign aus Bottrop">elektrowecker.de (Webdesign aus Bottrop)</a> für das Bereitstellen der Domain webworker-nrw.de! <3</p>
 
