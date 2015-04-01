@@ -115,7 +115,7 @@
 
             <p>Vielen Dank auch an <a href="http://ovau.de">Oliver Vaupel</a> für das Entwickeln und Beisteuern eines fantastischen Logos! <3</p>
 
-            <p>Und nicht zuletzt danke an <a href="https://twitter.com/labuero">Christian Siedler</a> für die tollen Fotos! <3</p>
+            <p>Und nicht zuletzt danke an <a href="https://twitter.com/labuero">Christian Siedler</a> und <a href="https://twitter.com/NandoRocket">Ferdi Hierl</a> für die tollen Fotos! <3</p>
 
         </article>
 	</main>
