@@ -1,0 +1,11 @@
+Title: Ember.js – Oder auch: Die größten Stützräder der Welt!
+----
+Author: Frederic Marx
+----
+Twitter: fredericmarx
+----
+Description:
+----
+Text: Schnelleinstieg in die Entwicklung modularer Webapps mit JavaScript und Ember.js - aus Sicht eines Webdesigners.
+----
+Material:
