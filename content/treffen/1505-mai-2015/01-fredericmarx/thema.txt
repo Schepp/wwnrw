@@ -6,6 +6,6 @@ Twitter: fredericmarx
 ----
 Description:
 ----
-Text: Schnelleinstieg in die Entwicklung modularer Webapps mit JavaScript und Ember.js - aus Sicht eines Webdesigners.
+Text: Schnelleinstieg in die Entwicklung modularer Webapps mit ECMAScript 2015 und Ember.js - aus Sicht eines Webdesigners.
 ----
 Material:
