@@ -11,3 +11,5 @@ Text: Seit der Geburt des Internets vor 25 Jahren bis heute hat sich in Sachen R
 Ola wird uns etwas zu der Idee, die hinter dem Konzept "Offline First" erzählen. Darüberhinaus werden wir erfahren, welche Technologien wir heute, und welche wir vielleicht auch erst morgen zur Umsetzung dieser Idee einsetzen können. Und nicht zuletzt wird es auch darum gehen, welche neuen technischen wie auch bedienerischen Herausforderungen durch den "Offline First"-Ansatz auf uns zukommen.
 
 Und, ja, es wird auch um Hoodie gehen :-)
+----
+Material: http://slidr.io/zoepage/concat-hello-to-offline-first-1#1
