@@ -1,0 +1,11 @@
+Title: Das große CMS Shootout
+----
+Author: Gernot Schulmeister
+----
+Twitter:
+----
+Description:
+----
+Text: Für diesen Vortrag hat Gernot ein und dieselbe Test-Website mit Drupal, Contao, Joomla!, Wordpress, TYPO3 und Neos umgesetzt. Währenddessen hat er den jeweiligen Aufwand festgehalten und im Nachgang die Qualität der einzelnen Umsetzung bewertet. Zeit, die Ergebnisse bei uns zu präsentieren!
+----
+Material:
