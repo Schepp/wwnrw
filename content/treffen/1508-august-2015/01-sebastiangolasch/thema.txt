@@ -1,0 +1,11 @@
+Title: Das große CMS Shootout
+----
+Author: Sebastian Golasch
+----
+Twitter:
+----
+Description: Geschichten aus der Gruft: JavaScript und das Internet der Dinge
+----
+Text: Sehen wir der Wahrheit ins Auge, das "Internet of Things" ist nicht mehr als ein gehyptes Buzzword. Interessanterweise aber ein Buzzword, welches von zwei total unterschiedlichen Gruppen genutzt wird, zum einen von denen, die am liebsten "Big Data in die Cloud" schieben wollen und zum anderen von denen die ihre Kaffeemaschine Zuhause mit einem Tessel aufwerten, um sie vom Raspberry PI zu steuern. Tauchen wir tiefer in das Thema ein, wird es noch diverser; Ist meine batteriebetriebene Fernbedienung für meine Beleuchtung wirklich mit dem Internet verbunden? Warum brauche ich dann noch einen Access Point für meine Lampen, ich hab doch schon nen WIFI Router?! Wieso geht dieses "Internet of Things" nicht im Browser, sondern nur mit 20 iPhone Apps? All diese Fragen werden wir in dem Talk beantworten, in dem wir ein proprietäres Consumer Electronics Hausautomationsprotokoll mit Hilfe von JavaScript auf Server und Client Seite reverse engineeren & mit DIY Hardware interagieren lassen. Dadurch zeigen wir auf, warum JavaScript die Sprache der Wahl für die Vernetzung "der Dinge" darstellt und wie uns JavaScript zudem den Ausweg aus dem Zeitalter der "iPhone Apps of Things" weisen kann.
+----
+Material:
