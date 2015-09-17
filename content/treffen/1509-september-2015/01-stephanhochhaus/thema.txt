@@ -8,4 +8,4 @@ Description:
 ----
 Text: Webentwicklung mit Node.js ist ein alter Hut. Dennoch sind bisher nur verhältnismäßig wenige Entwickler von klassischen Backend-Sprache wie Ruby, PHP, oder Java gewechselt. Für Einsteiger ist Node.js erst Recht ein Buch mit sieben Siegeln. Meteor baut auf Node.js auf und zielt bewusst auf Einsteiger in der Programmierung ab. Die Macher versprechen, dass mit Meteor auf einfache Weise eindrucksvolle Apps wie von Facebook oder Twitter erstellt werden können. Wie das genau geht und welche Möglichkeiten sowie Grenzen es im Einsatz von Meteor zeigt Stephan Hochhaus, Autor des Buchs "Meteor in Action".
 ----
-Material:
+Material: http://de.slideshare.net/stephanhochhaus/meteor-wwnrw-intro
