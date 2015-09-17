@@ -21,7 +21,7 @@
 			<?php
 			$naechstestreffen = $pages->find('treffen')->children->last();
 			echo '<h2>Nächstes Treffen: '.html($naechstestreffen->datum()).'</h2>';
-			echo strval($naechstestreffen->hinweis()) ? '<p>'.html($naechstestreffen->hinweis()).'</p>' : '';
+			if((bool) $naechstestreffen->hinweis()) echo '<p>'.html($naechstestreffen->hinweis()).'</p>';
 			echo '<ul class="topics">';
 
 			$themen = $naechstestreffen->children();
