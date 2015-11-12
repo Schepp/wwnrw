@@ -8,4 +8,4 @@ Description:
 ----
 Text: In diesem Vortrag wagen wir einen Rundflug durch die gesamte Welt des Frontend-Tooling. Zu Beginn sprechen wir über die Vor- und Nachteile des klassischen Pakets aus HTML, CSS und jQuery im Vegleich zu integrierten Frameworks wie React oder Angular. Danach werden wir verschiedene Taskrunnern wie Gulp, Grunt und npm miteinander vergleichen. Nachdem wir diese Basisarbeit erledigt haben steigen wir tiefer ein und schauen uns an, wie wir Aufgaben wie Bildoptimierung, Concatenierung, Minifizierung, sowie Deployments auf Server, zu Git oder zu npm in einfache Tasks verpacken und automatisieren können. Am Ende dieses Vortrag sollte für jeden ein Erkenntnisgewinn herausgesprungen sein.
 ----
-Material:
+Material: http://slides.com/drublic/tooling
