@@ -1,0 +1,11 @@
+Title: TYPO3 - Neues in der 7er LTS Version und ein Blick hinter die Kulissen des TYPO3 Projekts
+----
+Author: Mathias Schreiber
+----
+Twitter:
+----
+Description:
+----
+Text: Nach einiges Minor Releases war es Anfang Dezember soweit: TYPO3 7 ist endlich in seiner LTS-Fassung erschienen. Überhaupt geht es beim TYPO3-Projekt nach einer längeren Findungsphase wieder richtig rund. Das liegt nicht nur an einer sinnvollen Reorganisation, sondern ist auch dem Düsseldorfer Mathias Schreiber zu verdanken, der sich dem Projekt letztes Jahr als Project Owner zur Verfügung gestellt hat - und zwar Fulltime und selbstfinanziert. Eine Premiere für das Projekt! Wie es dazu kam, was sich dadurch verändert hat, welche Neuerungen released werden konnten, und was für die Zukunft noch alles geplant ist, all das wird Thema unseres gemütlichen Abends sein.
+----
+Material:
