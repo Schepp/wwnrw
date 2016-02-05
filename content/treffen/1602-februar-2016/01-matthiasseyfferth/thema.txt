@@ -7,5 +7,7 @@ Twitter:
 Description:
 ----
 Text: Dieses Mal begrüßen wir das Team von Blue Byte / Ubisoft, das das browserbasierte MMOG Die Siedler Online. Matthias, zuständig für die Weiterentwicklung des Gameplays, wird aus dem Betriebsallltag berichten. Es wird eher weniger um Code gehen als vielmehr darum, was einem alles um die Ohren fliegen kann, wenn man mehrere Hunderttausend Spieler auf ein paar Servern zusammenpfercht.
+
+Und noch was: Da am regulären Termin SCHON WIEDER sowohl die LeanDUS als auch die PHP User Group tagen, verlegen wir unser Treffen wie letzten Monat um eine Woche nach hinten auf den 18. Februar!
 ----
 Material:
