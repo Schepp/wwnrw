@@ -1,0 +1,11 @@
+Title: Einblicke in die Arbeit an Die Siedler Online
+----
+Author: Matthias Seyfferth
+----
+Twitter:
+----
+Description:
+----
+Text: Dieses Mal begrüßen wir das Team von Blue Byte / Ubisoft, das das browserbasierte MMOG Die Siedler Online. Matthias, zuständig für die Weiterentwicklung des Gameplays, wird aus dem Betriebsallltag berichten. Es wird eher weniger um Code gehen als vielmehr darum, was einem alles um die Ohren fliegen kann, wenn man mehrere Hunderttausend Spieler auf ein paar Servern zusammenpfercht.
+----
+Material:
