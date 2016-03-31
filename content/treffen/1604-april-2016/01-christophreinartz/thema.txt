@@ -14,6 +14,6 @@ At the beginning of 2015 we began establishing a design/frontend system and impr
 
 The talk will provide backgrounds, insights, learnings and technical approaches of refactoring a CSS base on a large scale project including its scope, the outcome and the business value.
 
-(Dieser Talk kann wahlweise auf Egnlisch oder Deutsch gehalten werrden)
+(Dieser Talk kann wahlweise auf Englisch oder Deutsch gehalten werden)
 ----
 Material:
