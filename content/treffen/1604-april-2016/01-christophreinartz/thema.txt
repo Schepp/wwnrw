@@ -16,4 +16,4 @@ The talk will provide backgrounds, insights, learnings and technical approaches 
 
 (Dieser Talk kann wahlweise auf Englisch oder Deutsch gehalten werden)
 ----
-Material:
+Material: https://speakerdeck.com/creinartz/project-ironman-large-scale-css-refactoring-at-trivago-2nd-edition

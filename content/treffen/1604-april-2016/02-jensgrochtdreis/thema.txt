@@ -1,0 +1,11 @@
+Title: Modulare Entwicklung in CSS
+----
+Author: Jens Grochtdreis
+----
+Twitter:
+----
+Description:
+----
+Text:
+----
+Material: https://speakerdeck.com/flocke/webseiten-modular-entwickeln-2
