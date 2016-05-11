@@ -29,4 +29,4 @@ After some theory we'll do some live coding and develop a demo application toget
 
 **PS:** Regular meetup visitors, please note that this workshop is happening on Wednesday, Mai 11th! Not on Thursday when our meetup would normally take place.
 ----
-Material: https://speakerdeck.com/creinartz/project-ironman-large-scale-css-refactoring-at-trivago-2nd-edition
+Material: https://docs.google.com/presentation/d/1uclIKIYWvfpHpBUSFXY_5PrL9orevB0Y2VZuENxFLbs/edit#slide=id.g130c814bab_0_0
