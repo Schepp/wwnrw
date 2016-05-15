@@ -23,6 +23,9 @@
 			echo '<h2>Nächstes Treffen: '.html($naechstestreffen->datum()).'</h2>';
 			if((bool) $naechstestreffen->hinweis()) echo '<p>'.html($naechstestreffen->hinweis()).'</p>';
 			echo '<ul class="topics">';
+			if ((bool) $naechstestreffen->images()->first()) {
+				echo '<img src="//wit.wurfl.io/w_598/'.$naechstestreffen->images()->first()->url().'">';
+			}
 
 			$themen = $naechstestreffen->children();
 			foreach($themen as $thema){
