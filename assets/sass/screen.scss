@@ -1,4 +1,4 @@
-@import "compass/reset";
+@import "helper/reset";
 @import "helper/vars";
 @import "helper/mixins";
 @import "../scripts/slider/js-image-slider.css";
@@ -14,6 +14,10 @@ body {
   margin: 0 auto;
   font-family: Inconsolata, Consolas, monaco, monospace;
   line-height: 1.2;
+}
+
+img {
+  @include rem("max-width", 41.5);
 }
 
 a {
@@ -71,6 +75,11 @@ header, article {
 }
 
 article {
+  img {
+	display: block;
+	width: 100%;
+	height: auto;
+  }
 }
 
 hr {
