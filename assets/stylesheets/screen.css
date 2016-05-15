@@ -118,7 +118,7 @@ header, article {
   padding-right: 32px;
   padding-right: 2rem; }
 
-article img {
+.next-meetup img {
   display: block;
   width: 100%;
   height: auto; }

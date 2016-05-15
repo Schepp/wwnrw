@@ -17,7 +17,7 @@
 			<?php echo kirbytext($page->text()) ?>
 		</article>
 		<hr>
-		<article>
+		<article class="next-meetup">
 			<?php
 			$naechstestreffen = $pages->find('treffen')->children->last();
 			echo '<h2>Nächstes Treffen: '.html($naechstestreffen->datum()).'</h2>';

@@ -74,7 +74,7 @@ header, article {
   @include rem("padding-right", 2);
 }
 
-article {
+.next-meetup {
   img {
 	display: block;
 	width: 100%;
