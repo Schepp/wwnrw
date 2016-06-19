@@ -1,0 +1,13 @@
+Title: Google AMP im Einsatz
+----
+Author: Tobias Block
+----
+Twitter:
+----
+Description:
+----
+Text: Tobias von RP ONLINE gibt einen Einblick zu den Google Accelerated Mobile Pages, kurz AMP.
+Wir werfen dabei einen Blick darauf, was Google da eigentlich gerade macht, wie man Google AMP selbst für seine Seite nutzen kann und welche Herausforderungen es bei der Implementierung gibt.
+Darüber hinaus gibt es einige Insights, die RP ONLINE als Launch Partner von Anfang an sammeln konnte.
+----
+Material:
