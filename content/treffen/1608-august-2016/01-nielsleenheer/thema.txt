@@ -10,7 +10,7 @@ Text: Ever since the web has conquered the desktop, people have been trying to b
 
 The latest generation of Smart TV’s run on the same operating systems as our mobile devices. How weird can these browsers be? Perhaps Smart TV’s aren’t as smart as we all would like to think. But there are more weird browsers. How do game consoles like the Xbox One handle your websites and are e-readers really capable of browsing the web? And are the browsers in VR headsets like the Hololens any good? I will try to give an overview of all the problems you are going to face when you want to make your site work on these weird browsers.
 
-*Niels is a self-professed browser geek. He has been hooked on browsers ever since somebody showed him the original Nexus browser on a NeXT Cube back in the dark ages of the internet. Niels is the creator of HTML5test.com and runs one of the largest Open Device Labs in the world. He loves procrastinating, collecting weird devices with even stranger browsers, procrastinating, researching obscure browsers and writing bug reports.*
+*Niels is a self-professed browser geek. He has been hooked on browsers ever since somebody showed him the original Nexus browser on a NeXT Cube back in the dark ages of the internet. Niels is the creator of [HTML5test.com](http://html5test.com/) and runs one of the largest [Open Device Labs](https://html5test.com/devicelab) in the world. He loves procrastinating, collecting weird devices with even stranger browsers, procrastinating, researching obscure browsers and writing bug reports.*
 
 ----
 Material:
