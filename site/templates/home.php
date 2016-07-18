@@ -6,7 +6,7 @@
 				<div id="slider" style="background: url(<?php echo $page->images()->first()->url() ?>) no-repeat left top">
 					<?php
 					foreach($page->images() as $image){
-						echo '<img src="//wit.wurfl.io/w_598/'.$image->url().'" onerror="this.src=\''.$image->url().'\'">';
+						echo '<img src="http://pt6z.lite.imgeng.in//w_598/'.$image->url().'" onerror="this.src=\''.$image->url().'\'">';
 					}
 					?>
 				</div>
@@ -24,7 +24,7 @@
 			if((bool) $naechstestreffen->hinweis()) echo '<p>'.html($naechstestreffen->hinweis()).'</p>';
 			echo '<ul class="topics">';
 			if ((bool) $naechstestreffen->images()->first()) {
-				echo '<img src="//wit.wurfl.io/w_598/'.$naechstestreffen->images()->first()->url().'" onerror="this.src=\''.$naechstestreffen->images()->first()->url().'\'">';
+				echo '<img src="http://pt6z.lite.imgeng.in//w_598/'.$naechstestreffen->images()->first()->url().'" onerror="this.src=\''.$naechstestreffen->images()->first()->url().'\'">';
 			}
 
 			$themen = $naechstestreffen->children();
