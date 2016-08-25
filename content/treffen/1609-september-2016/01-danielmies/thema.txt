@@ -1,0 +1,16 @@
+Title: Why I like types (and you should, too!)
+----
+Author: Daniel Mies
+----
+Twitter:
+----
+Description:
+----
+Text: Nowadays, working with a growing number of frameworks and libraries in a big Single Page Web Application can be challenging even for experienced developers. And there are not only JavaScript ninjas in your team: What about the backend developer who only wants to change a simple detail? How can new team members come to grips with your application faster? And of course: how can you avoid to drink the wrong beer in the wrong city?
+
+In this talk I will show you how to make developing complex JavaScript applications easier and even more fun for you and your team by embracing TypeScript.
+
+We will explore TypeScripts static type system, how it helps you to develop faster with less bugs and the benefits that even make your backend people like it. You will learn how to integrate it into your existing project. Finally we will have a look at the new features TypeScript 2 offers and why you should use it outside of Angular2, too.
+
+----
+Material: 
