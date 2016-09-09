@@ -13,4 +13,4 @@ In this talk I will show you how to make developing complex JavaScript applicati
 We will explore TypeScripts static type system, how it helps you to develop faster with less bugs and the benefits that even make your backend people like it. You will learn how to integrate it into your existing project. Finally we will have a look at the new features TypeScript 2 offers and why you should use it outside of Angular2, too.
 
 ----
-Material: 
+Material: http://danielmies.de/typescript-talk/
