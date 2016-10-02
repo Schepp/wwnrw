@@ -9,9 +9,6 @@ html {
 }
 
 body {
-  @include rem("max-width", 41.5);
-
-  margin: 0 auto;
   font-family: Inconsolata, Consolas, monaco, monospace;
   line-height: 1.2;
 }
@@ -72,6 +69,12 @@ header, article {
   @include rem("margin-bottom", 2);
   @include rem("padding-left", 2);
   @include rem("padding-right", 2);
+}
+
+.wrapper {
+  @include rem("max-width", 41.5);
+
+  margin: 0 auto;
 }
 
 .next-meetup {
