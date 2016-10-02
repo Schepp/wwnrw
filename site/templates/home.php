@@ -3,7 +3,7 @@
 <main>
     <article>
         <div id="sliderFrame">
-            <div id="slider" style="background: url(<?php echo $page->images()->first()->url() ?>) no-repeat left top">
+            <div id="slider" style="background: url(<?php echo $page->images()->first()->url() ?>) no-repeat left top; background-size: cover">
                 <?php
                 foreach ($page->images() as $image) {
                     echo '<img src="http://pt6z.lite.imgeng.in/pc_100/' . $image->url() . '" onerror="this.src=\'' . $image->url() . '\'">';
