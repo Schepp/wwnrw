@@ -122,6 +122,9 @@ nav {
 }
 
 .archive {
+  max-height: 500px;
+  overflow: auto;
+
   li {
 	@include clearfix;
 	@include rem("margin-top", 0);

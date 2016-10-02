@@ -105,8 +105,7 @@
 
         <p><img src="<?php echo url('assets/images/logo-garagebilk.png') ?>" width="128" height="54"></p>
 
-        <p>Vielen Dank an den <a href="http://www.garagebilk.de/">Coworking Space GarageBilk</a> für das frühere
-            Sponsoring.</p>
+        <p>Vielen Dank an den Coworking Space GarageBilk für das frühere Sponsoring.</p>
 
         <p><img src="<?php echo url('assets/images/logo-blanko.png') ?>" width="125" height="22"></p>
 
