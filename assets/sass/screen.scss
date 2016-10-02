@@ -156,6 +156,10 @@ nav {
   border: 1px solid #FFF;
 }
 
+#slider {
+  background-size: cover;
+}
+
 #sliderFrame, #slider {
   @include box-shadow(0 0 10px #cdb89e);
   @include border-box;

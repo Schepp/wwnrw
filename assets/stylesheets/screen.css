@@ -195,6 +195,9 @@ nav {
   height: 400px;
   border: 1px solid #FFF; }
 
+#slider {
+  background-size: cover; }
+
 #sliderFrame, #slider {
   -o-box-shadow: 0 0 10px #cdb89e;
   -ms-box-shadow: 0 0 10px #cdb89e;
