@@ -1,4 +1,5 @@
 (function(){
+	var h = document.getElementsByTagName('head')[0];
 	// if(document.getElementById('map')){
 	// 	var h = document.getElementsByTagName('head')[0];
     //
