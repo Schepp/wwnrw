@@ -26,13 +26,16 @@ function sendForm(){
 	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 	curl_setopt($ch,CURLOPT_POST, count($fields));
 	curl_setopt($ch,CURLOPT_POSTFIELDS, $fields_string);
+	curl_setopt($ch,CURLOPT_SSL_VERIFYPEER, false);
+	curl_setopt($ch,CURLOPT_SSL_VERIFYHOST, false);
 
 	// exec
 	$replyRaw = curl_exec($ch);
 	$reply=json_decode($replyRaw,true);
+
 	if($reply['ok']==false) {
 		echo '<p style="color: #9d3d3d">';
-		echo 'Irgendwas ist schief gegangen. Versuch es nochmal!';
+		echo 'Irgendwas ist schief gegangen. Slack sagt: "' . $reply['error'] . '"';
 		echo '</p>';
 		showForm();
 	}
