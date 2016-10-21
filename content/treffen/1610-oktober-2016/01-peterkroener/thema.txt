@@ -1,0 +1,12 @@
+Title: Functional Reactive Programming mit RxJS
+----
+Author: Peter Kröner
+----
+Twitter:
+----
+Description:
+----
+Text: Functional Reactive Programming sickert über Frameworks wie Angular 2 und CycleJS zunehmend in den JavaScript-Mainstream ein. Um dieses Programmierparadigma erfolgreich anzuwenden ist einiges an Umdenken erforderlich – diese Session zeigt, wie’s geht. Neben FRP-Konzepten und den Details von RxJS geht es auch darum, wie sich mit Functional Reactive Programming Probleme des Alltags lösen lassen.
+
+----
+Material: http://files.peterkroener.de/FRPWWNRW.zip

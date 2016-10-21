@@ -13,9 +13,10 @@ if($_SERVER['HTTP_HOST'] == 'www.webworker-nrw.de'){
     <meta name="description" content="<?php echo html($page->description()) ?>">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width">
+	<meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
 	<link rel="dns-prefetch" href="//ajax.googleapis.com">
-	<link rel="dns-prefetch" href="//api.tiles.mapbox.com">
 	<!-- Create Icons via http://iconifier.net -->
+
 	<link rel="shortcut icon" href="<?php echo url('favicon.ico') ?>">
 	<link rel="apple-touch-icon" href="<?php echo url('assets/images/apple-touch-icon.png') ?>">
 	<link rel="apple-touch-icon" sizes="57x57" href="<?php echo url('assets/images/apple-touch-icon-57x57.png') ?>">
@@ -35,6 +36,6 @@ if($_SERVER['HTTP_HOST'] == 'www.webworker-nrw.de'){
 	</script>
 </head>
 <body>
-    <header>
+    <header class="wrapper">
 	    <h1><a href="<?php echo url() ?>"><img src="<?php echo url('assets/images/WWNRW.png') ?>" width="240" height="100" alt="<?php echo html($page->title()) ?>" /></a></h1>
     </header>
