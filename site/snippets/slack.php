@@ -65,13 +65,8 @@ function showForm(){
 	<?php
 	$showform = false;
 	$error = false;
-	if (isset($_POST['first'])){
-		if (strlen($_POST['first']) > 1 && strlen($_POST['last']) > 1 && strlen($_POST['mail']) > 5){
-			sendForm();
-		} else {
-			$showform = true;
-			$error = true;
-		}
+	if (isset($_POST['mail'])){
+		sendForm();
 	} else {
 		$showform = true;
 	}
