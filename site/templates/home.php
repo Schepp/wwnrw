@@ -18,6 +18,8 @@
         <?php echo kirbytext($page->text()) ?>
     </article>
     <hr>
+    <?php snippet('slack') ?>
+    <hr>
     <article class="next-meetup">
         <?php
         $naechstestreffen = $pages->find('treffen')->children->last();
