@@ -4,3 +4,4 @@ panel/
 site/panel
 docs
 *.scssc
+site/snippets/.slack-token

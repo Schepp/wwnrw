@@ -204,4 +204,39 @@ nav {
   width: 100%;
   overflow: hidden;
   border: 1px solid #FFF; }
+
+.slack-form {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row; }
+  .slack-form label {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-flex: 1 1 90%;
+        -ms-flex: 1 1 90%;
+            flex: 1 1 90%; }
+  .slack-form button {
+    -webkit-flex: 0 0 10%;
+        -ms-flex: 0 0 10%;
+            flex: 0 0 10%;
+    margin: 0;
+    padding: 0 1em;
+    background-color: #CC0106;
+    color: #fff;
+    border: none; }
+  .slack-form input {
+    display: block;
+    -webkit-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    margin-left: 1em;
+    padding: 0.25em;
+    font: inherit; }
 /*# sourceMappingURL=screen.css.map */
