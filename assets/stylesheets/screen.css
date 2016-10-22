@@ -221,7 +221,9 @@ nav {
             align-items: center;
     -webkit-flex: 1 1 90%;
         -ms-flex: 1 1 90%;
-            flex: 1 1 90%; }
+            flex: 1 1 90%;
+    min-width: 0;
+    white-space: nowrap; }
   .slack-form button {
     -webkit-flex: 0 0 10%;
         -ms-flex: 0 0 10%;
@@ -236,6 +238,7 @@ nav {
     -webkit-flex: 1;
         -ms-flex: 1;
             flex: 1;
+    min-width: 0;
     margin-left: 1em;
     padding: 0.25em;
     font: inherit; }

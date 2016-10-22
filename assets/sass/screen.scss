@@ -174,6 +174,8 @@ nav {
     display: flex;
     align-items: center;
     flex: 1 1 90%;
+	min-width: 0;
+	white-space: nowrap;
   }
 
   button {
@@ -188,6 +190,7 @@ nav {
   input {
     display: block;
     flex: 1;
+	min-width: 0;
     margin-left: 1em;
     padding: 0.25em;
     font: inherit;
