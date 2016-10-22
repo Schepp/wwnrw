@@ -62,7 +62,7 @@ function showForm(){
 
 }
 ?>
-<article class="slack">
+<article id=""slack" class="slack">
 	<h2>Die Webworker NRW auf Slack</h2>
 
 	<?php
