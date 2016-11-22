@@ -23,8 +23,8 @@ foreach ($treffenAll as $treffen) {
 
     $themen = $treffen->children();
     foreach ($themen as $thema) {
-        $titles[] = $thema->title();
-        $authors[] = $thema->author();
+        $titles[] = strval($thema->title());
+        $authors[] = strval($thema->author());
         $descriptions[] = html($thema->text());
         $modified = $thema->modified() > $modified ? $thema->modified() : $modified;
     }
@@ -37,7 +37,7 @@ ORGANIZER:" . implode(' & ', $authors) . "
 UID:" . md5($treffen->datum()) . "
 DTSTART:" . date(DATE_ICAL, strtotime($startDate)) . "
 DTEND:" . date(DATE_ICAL, strtotime($endDate)) . "
-LAST-MODIFIED:" . date(DATE_ICAL, strtotime($modified)) . "
+LAST-MODIFIED:" . date(DATE_ICAL, $modified) . "
 LOCATION:Sipgate, Gladbacher Straße 74, 40219 Düsseldorf
 END:VEVENT\n";
 }
