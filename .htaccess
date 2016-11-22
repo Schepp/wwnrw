@@ -16,7 +16,7 @@ RewriteEngine on
 # 
 # RewriteBase /mysite
 # 
-# RewriteBase /
+RewriteBase /
 
 RewriteCond %{HTTP_HOST} !^webworker-nrw.de$
 RewriteCond %{HTTP_HOST} ^[a-z\.]*?([a-z]+).de$
