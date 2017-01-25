@@ -1,0 +1,26 @@
+Title: Three.js-Workshop
+----
+Author: Martin Panknin und Thomas Reufer
+----
+Twitter:
+----
+Description:
+----
+Text: In diesem Workshop möchten wir euch einen Einblick in die Entwicklung von WebGL-Anwendungen unter Verwendung der three.js Library geben. Aufbauend auf dem Vortrag vom 22.11.2016 werden wir hier etwas tiefer in die Thematik gehen.
+
+Nach einem kurzen Theorieteil zum Thema Echtzeit 3D und WebGL werden wir uns verstärkt mit praktischen WebGL Beispielen beschäftigen bei denen ihr gerne eure Fähigkeiten hands-on testen könnt.
+
+Workshop Themen:
+
+* Three.js
+* Aufbauen einer Szene
+* Laden von Modellen
+* Laden von Materialien und Texturen
+* Beleuchtung
+* Interaktion mit der 3D Szene (Kamera + Raypicking)
+* Kurzzeit-Exkurs in die Shader Programmierung
+
+Die [redPlant GmbH](http://de.redplant.de/) ist eine Düsseldorfer Agentur mit dem Spezialgebiet 3D-Echtzeit. Gegründet 2011 von Annika Möser, Martin Panknin und Thomas Reufer.
+
+----
+Material:
