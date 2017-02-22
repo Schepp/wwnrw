@@ -140,14 +140,14 @@ nav {
     display: table-cell;
     text-align: center; }
 
-.topics li {
+.topics > li {
   zoom: 1;
   margin-top: 32px;
   margin-top: 2rem;
   margin-bottom: 32px;
   margin-bottom: 2rem;
   display: block; }
-  .topics li:after {
+  .topics > li:after {
     content: ' ';
     display: block;
     clear: both;

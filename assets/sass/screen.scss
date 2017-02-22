@@ -105,7 +105,7 @@ nav {
 }
 
 .topics {
-  li {
+  > li {
 	@include clearfix;
 	@include rem("margin-top", 2);
 	@include rem("margin-bottom", 2);
