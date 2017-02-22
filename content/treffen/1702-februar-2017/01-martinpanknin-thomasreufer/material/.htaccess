@@ -1,2 +1,2 @@
-AllowOverride All
 Options +Indexes
+IndexOptions +FancyIndexing
