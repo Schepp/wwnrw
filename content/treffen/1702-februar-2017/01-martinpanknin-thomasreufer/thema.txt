@@ -23,4 +23,4 @@ Workshop Themen:
 Die [redPlant GmbH](http://de.redplant.de/) ist eine Düsseldorfer Agentur mit dem Spezialgebiet 3D-Echtzeit. Gegründet 2011 von Annika Möser, Martin Panknin und Thomas Reufer.
 
 ----
-Material: https://gist.github.com/Schepp/ca54ae2911906097ec9b35af0516f599
+Material: https://github.com/MPanknin/ww-nrw
