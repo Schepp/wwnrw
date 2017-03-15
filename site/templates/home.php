@@ -13,6 +13,10 @@
             </div>
         </div>
     </article>
+    <article>
+        <?php echo kirbytext($page->text()) ?>
+    </article>
+    <hr>
     <article class="next-meetup">
         <?php
         $naechstestreffen = $pages->find('treffen')->children->last();
@@ -34,11 +38,6 @@
 
         echo '</ul>';
         ?>
-    </article>
-    <hr>
-    <article>
-        <h2>Über uns</h2>
-        <?php echo kirbytext($page->text()) ?>
     </article>
     <hr>
     <?php snippet('slack') ?>
