@@ -9,4 +9,4 @@ Description:
 Text: In diesem Vortrag zeigen wir Euch, wie Ihr User Interfaces ausschließlich mit Funktionen aufbaut, und zwar auf Basis reaktiver Programmierung und Scala.js. Dazu werfen wir auch einen Blick auf OutWatch, einer neuen, auf Rx basierenden UI-Bibliothek. Wir schauen uns an, was in diesem Mix gut von der Hand geht und was uns vor Herausforderungen stellt, um am Ende schließlich das volle Potential von funktionalen Designs und Typsicherheit im Browser auszuschöpfen.
 
 ----
-Material:
+Material: https://docs.google.com/presentation/d/1pe7KbPiWdjJr5ssQ0FQTUIil6ZKJjMmkVlh_bCvtAfc/edit?usp=sharing
