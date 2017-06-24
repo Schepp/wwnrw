@@ -36,7 +36,7 @@
     button.type = 'submit';
     button.innerText = 'Anmelden';
 
-    form.appendChild(lebel);
+    form.appendChild(label);
     form.appendChild(button);
 
     container.appendChild(form);
