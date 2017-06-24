@@ -1,0 +1,12 @@
+Title: Anwendungen mit Sinnen - Entwickeln von Systemen die Sehen, Hören und Verstehen
+----
+Author: Malte Lantin
+----
+Twitter:
+----
+Description:
+----
+Text: Das Entwickeln von interaktiven Chatsystemen stellt ganz neue Herausforderungen an Entwickler. Wie bauen wir ein Dialogsystem? Wie integrieren wie uns in existierende Chatsysteme und wie machen wir unsere Bots "intelligent"? Moderne Cloudservices helfen uns als Entwickler dabei unsere Anwendungen mit Fähigkeiten auszustatten, welche noch vor wenigen Jahren nur spezialisierten Unternehmen zur Verfügung standen. In diesem Vortrag werden wir uns existierende Angebote ansehen und an praktischen Beispielen erleben, wie man Services zur Bild- und Textanalyse, zur Auswertung von Bildinformationen oder auch zum Verständnis natürlicher Sprache einsetzt. Im diesem Zuge werden wir Werkzeuge und Dienste wie das Microsoft Bot Framework, Microsoft Cognitive Services, Google Cloud Services und die Integration in existierende persönliche Assistenten näher kennen lernen.
+
+----
+Material:

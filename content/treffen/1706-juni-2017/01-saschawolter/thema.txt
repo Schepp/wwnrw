@@ -1,0 +1,12 @@
+Title: Geschwätzige Geräte
+----
+Author: Sascha Wolter
+----
+Twitter:
+----
+Description:
+----
+Text: Gehören Maus und Monitor schon bald der Vergangenheit an? Werden wir anstelle dessen zukünftig mit Geräten in einer erweiterten Realität kommunizieren? Oder reden die Geräte überhaupt noch mit uns und nicht viel mehr über uns und wissen so bereits automatisch, was autonom zu tun ist? Sascha diskutiert nicht nur diese Fragen. Er zeigt außerdem, wie sich moderne Interaktionsformen und multimodale Benutzungsschnittstellen in eigene vernetzte Anwendungen einbinden lassen. Zum Einsatz kommen Technologien wie Amazon Echo, Google Home und Microsoft Cortana.
+
+----
+Material: https://www.slideshare.net/woltersa/chatty-devices
