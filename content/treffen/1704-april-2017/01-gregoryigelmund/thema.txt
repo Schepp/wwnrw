@@ -9,4 +9,4 @@ Description:
 Text: Ein Ruby-Entwickler legt mal die OOP-Brille ab und taucht in die Welt von Elixir und Erlang ein. Meine Höhen/Tiefen beim Lernen einer funktionalen Programmiersprache in 4 Wochen anhand des [Advent of Codes 2016](http://adventofcode.com/2016).
 
 ----
-Material:
+Material: https://docs.google.com/presentation/d/1_kJX6bGN2CKCHj6UMicEXxQGF5qyCwTZZwVi4AmNGKY
