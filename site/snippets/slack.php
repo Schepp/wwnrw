@@ -53,10 +53,7 @@ function showForm(){
 
 	?>
 
-	<form method="post" autocomplete="on" class="slack-form">
-		<label>E-Mail: <input type="text" name="mail" autocomplete="email" style="width: 250px; " <?php echo isset($_POST['mail']) ? 'value="'.$_POST['mail'].'"' : ''; ?> /></label>
-		<button type="submit">Anmelden</button>
-	</form>
+    <div id="slack-container"></div>
 
 	<?php
 
