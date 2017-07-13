@@ -9,4 +9,4 @@ Description:
 Text: Die Nerds im Newsroom sind auf dem Vormarsch: Datengetriebene Recherchen und der Trend zu mehr Programmierkompentenz ermöglichen neue Darstellungformen und Formate. Doch nicht immer, wenn Journalisten d3.js und Co bemühen, ist der Leser hinterher begeistert. Phil Ninh und Sophie Rotgeri, Datenjournalisten bei [Journocode](http://journocode.com/), zeigen gute und schlechte Beispiele für Interaktivität im Journalismus: Wie läuft die Umsetzung und wann ist es überhaupt sinnvoll?
 
 ----
-Material:
+Material: https://docs.google.com/presentation/d/1q3WA4cUoVYIDWNKwlBgaVZok0H8o6cdTJCUPF9Vp4WE/edit#slide=id.g1f92723886_2_63
