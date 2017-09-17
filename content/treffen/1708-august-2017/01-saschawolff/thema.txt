@@ -1,0 +1,15 @@
+Title: Einstieg in Docker
+----
+Author: Sascha Wolff
+----
+Twitter:
+----
+Description:
+----
+Text: Seit wir uns das letzte Mal den Containerdienst Docker angesehen haben, hat sich viel getan. Mittlerweile läuft Docker nicht nur problemlos auf Mac, sondern auch auf Windows. Außerdem schwenken immer mehr Entwickler von Vagrant auf Docker um, weil die Docker-Container schlanker sind und direkt deployed werden können. Es ist also Zeit, sich Docker nochmal anzusehen!
+
+Sascha Wolff nimmt uns dabei an die Hand und führt uns durch die wichtigsten Basics, z.B. das Anlegen und Starten eines Container, das Arbeiten mit Volumes oder das Verlinken von mehreren Containern zu einer Microservice-Architektur. Außerdem schauen wir uns an, inwieweit Docker-Compose uns das Leben leichter machen kann.
+
+Wenn alles gut läuft werden wir zum Abschluss noch ein vollautomatisches Script schreiben, das uns in unter 10 Sekunden einen Reverse-Proxy mit mehreren Domains und TLS-Verschlüsselung einrichtet.
+----
+Material: https://justdoitsascha.github.io/docker-guide-101/
