@@ -1,0 +1,137 @@
+---
+layout: home
+title: Das monatliche Treffen für Webworker
+description: Wir treffen uns jeden 2. Do. im Monat um 19h bei Sipgate in Düsseldorf.
+permalink: /
+carousel_images:
+  - assets/images/IMGL0148.jpg
+  - assets/images/IMGL0150.jpg
+  - assets/images/IMGL0174.jpg
+  - assets/images/IMGL0184.jpg
+  - assets/images/IMGL0191.jpg
+  - assets/images/IMG_2827.jpg
+  - assets/images/IMG_2828.jpg
+  - assets/images/IMG_2830.jpg
+  - assets/images/IMG_2880.jpg
+  - assets/images/IMG_2882.jpg
+  - assets/images/IMG_2906.jpg
+  - assets/images/IMG_2922.jpg
+---
+<main>
+    <article>
+	<div id="sliderFrame">
+	    <div id="slider"
+		 style="background: url({{site.baseurl}}/{{page.carousel_images[0]}}) no-repeat center center; background-size: cover">
+		{% for img in page.carousel_images %}
+		<img src="{{site.baseurl}}/{{img}}">
+		{% endfor %}
+	    </div>
+	</div>
+    </article>
+    <article>
+	<p>
+	    Unser Treffen richtet sich an alle, die sich mit der Thematik Webentwicklung beschäftigen: Solo oder im großen Team, Grafiker, Frontendler oder Backendler gleichermaßen. Es geht darum, voneinander zu lernen und über den eigenen Tellerrand zu blicken. Je verschiedener die Gruppe, desto verschiedener die Themen!
+	</p>
+	<p>
+	    Jeden dieser Abende versuchen wir ein bis zwei Themen zu beackern. Das geschieht in Vortragsform (mit oder ohne ausgefeilter Präsentation) oder als Hands-on in offener Diskussionsrunde. Du kennst Dich bei einem Thema gut aus? Erleuchte uns! Oder setz Dich mit einem Bierchen zu uns und sauge Wissen auf.
+	</p>
+    </article>
+    <hr>
+
+    {% include meetup.html meetup=site.treffen.last caption='Nächstes Treffen' %}
+
+    <hr>
+    <?php snippet('slack') ?>
+    <hr>
+    <article>
+	<h2>Vergangene Treffen</h2>
+	<ul class="archive">
+	    {% for meetup in site.treffen reversed %}
+	    {% if forloop.first %}{% continue %}{% endif %}
+	    <li>
+		<h3>{{meetup.datum}}</h3>
+		<a href="{{site.baseurl}}{{meetup.url}}">Details</a>
+		<ul>
+		    {% for talk in meetup.talks %}
+		    <li>
+			<strong>{{talk.title}}</strong>
+			{% if talk.material %}
+			(<a href="{{talk.material}}">Material</a>)
+			{% endif %}
+			<br><em>{{talk.author}}</em>
+		    </li>
+		    {% endfor %}
+		</ul>
+	    </li>
+	    {% endfor %}
+	</ul>
+    </article>
+    <hr>
+    <article>
+	<h2>Location</h2>
+	<p>Sipgate<br>
+	    Gladbacher Straße 74<br>
+	    40219 Düsseldorf</p>
+	<p>Parkplätze gibt hinter dem Sipgate Büro. Diese erreicht man über die Plockstraße. Wichtig: Man fährt
+	    durch eine Unterführung und direkt danach führt rechts ein kleiner Weg auf den Parkplatz (bis zum Ende
+	    durchfahren).</p>
+	<!--			<div id="map">-->
+	<!--				<a href="http://tiles.mapbox.com/schepp/map/map-8ymj20sc" target="_blank">-->
+	<!--					<img src="http://a.tiles.mapbox.com/v3/schepp.map-8ymj20sc/6.780712471580494,51.209823834533175,18/600x400.png" width="600" height="400">-->
+	<!--				</a>-->
+	<!--			</div>-->
+	<!--			<p><a href="http://tiles.mapbox.com/schepp/map/map-8ymj20sc" target="_blank">Größere Karte</a></p>-->
+    </article>
+    <hr>
+    <article>
+	<h2>Kontakt &amp; Impressum</h2>
+	<p>Christian "Schepp" Schaefer<br>
+	    Ulenbergstraße 1<br>
+	    40223 Düsseldorf</p>
+	<p>Tel: 0211 / 835 68 26<br>
+	    E-Mail: <a href="mailt&#111;&#58;s&#99;h%61&#37;&#54;5p&#112;&#64;&#103;m&#120;%2&#69;de">schaepp&#64;gmx&#46;de</a><br>
+	    Meetup.com: <a href="http://www.meetup.com/Webworker-NRW/">Webworker NRW</a><br>
+	    Twitter: <a href="https://twitter.com/wwnrw">@wwnrw</a><br>
+	    Facebook: <a href="http://www.facebook.com/wwnrw">Facebook</a><br>
+	    Google+: <a href="https://plus.google.com/109970663953331374396" rel="publisher">Google+</a></p>
+	<p>Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV: Christian Schaefer (Anschrift wie oben)</p>
+    </article>
+    <hr>
+    <article>
+	<h2>Danksagungen</h2>
+
+	<p><img src="{{site.baseurl}}/assets/images/sipgate.svg" width="150" height="38"></p>
+
+	<p>Vielen Dank an <a href="http://www.sipgate.de/">Sipgate</a> für das Bereitstellen der Räumlichkeiten! <3
+	</p>
+
+	<p><img src="{{site.baseurl}}/assets/images/logo-garagebilk.png" width="128" height="54"></p>
+
+	<p>Vielen Dank an den Coworking Space GarageBilk für das jahrelange frühere Sponsoring.</p>
+
+	<p><img src="{{site.baseurl}}/assets/images/logo-blanko.png" width="125" height="22"></p>
+
+	<p>Und vielen Dank an <a href="http://blanko.biz">die beste Agentur der Welt</a> für das Sponsoring von
+	    Speakern! <3</p>
+
+	<p><img src="{{site.baseurl}}/assets/images/logo-elektrowecker.png" width="101" height="25"></p>
+
+	<p>Ebenso vielen Dank an <a href="https://twitter.com/derPepo">@derPepo</a> von <a
+		href="http://www.elektrowecker.de" title="Webdesign aus Bottrop">elektrowecker.de (Webdesign aus
+		Bottrop)</a> für das Bereitstellen der Domain webworker-nrw.de! <3</p>
+
+	<p><img src="{{site.baseurl}}/assets/images/logo_jetbrains.png" width="100" height="32"></p>
+
+	<p>Danke an <a href="http://www.jetbrains.com/">JetBrains</a> für das Sponsoring von Softwarelizenzen! <3
+	</p>
+
+	<p><img src="{{site.baseurl}}/assets/images/logo-ovau.png" width="76" height="39"></p>
+
+	<p>Vielen Dank auch an <a href="http://ovau.de">Oliver Vaupel</a> für das Entwickeln und Beisteuern eines
+	    fantastischen Logos! <3</p>
+
+	<p>Und nicht zuletzt danke an <a href="https://twitter.com/labuero">Christian Siedler</a> und <a
+		href="https://twitter.com/NandoRocket">Ferdi Hierl</a> für die tollen Fotos! <3</p>
+
+    </article>
+</main>

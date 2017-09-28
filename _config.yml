@@ -1,0 +1,27 @@
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: [
+'README.md', 'LICENCE.txt', 'CNAME',
+]
+
+# Site Settings
+title: "Webworker NRW"
+author: Christian Schaefer
+location: Sipgate, Gladbacher Straße 74, 40219 Düsseldorf
+
+url: "http://www.webworker-nrw.de"
+baseurl: "/wwnrw/"
+
+collections:
+  treffen:
+    foo: bar
+    output: true
+    permalink: ":path.html"
+
+defaults:
+  - scope:
+      path: ""
+      type: treffen
+    values:
+      layout: meetup

@@ -1,0 +1,34 @@
+<article class="next-meetup">
+	<h2>{{include.caption | default: "Treffen"}}: {{include.meetup.datum}}</h2>
+	{% if false %} Ugly hack to get the first image in the same dir as this meetup {% endif %}
+	{% assign treffen_meta = site.collections | where: 'label', 'treffen'| first %}
+	{% for file in treffen_meta.files %}{% assign pageurl = include.meetup.path | replace: 'index.html', '' %}{% if file.path contains pageurl %}{% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
+	<img src="{{site.baseurl}}{{file.path | replace: '/_treffen', ''}}" />
+	{% break %}
+	{% endif %}{% endif %}{% endfor %}
+
+	{% if include.meetup.content %}
+	<p>
+		{{include.meetup.content}}
+	</p>
+	{% endif %}
+
+	<ul class="topics">
+
+		{% if image %}
+		<img src="http://pt6z.lite.imgeng.in//w_598/{{image}}" onerror="this.src='{{image}}'">
+		{% endif %}
+
+		{% for talk in include.meetup.talks %}
+		<li>
+			<h3>{{talk.title}}<br><small>{{talk.author}}</small></h3>
+			<p>
+			{{talk.description | newline_to_br | replace: '<br />', '</p><p>'}}
+			</p>
+			{% if talk.material %}
+			(<a href="{{talk.material}}">Material</a>)
+			{% endif %}
+		</li>
+		{% endfor %}
+	</ul>
+</article>
