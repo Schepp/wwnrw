@@ -3,7 +3,7 @@
 	{% if false %} Ugly hack to get the first image in the same dir as this meetup {% endif %}
 	{% assign treffen_meta = site.collections | where: 'label', 'treffen'| first %}
 	{% for file in treffen_meta.files %}{% assign pageurl = include.meetup.path | replace: 'index.html', '' %}{% if file.path contains pageurl %}{% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
-	<img src="{{site.baseurl}}{{file.path | replace: '/_treffen', ''}}" />
+	<img src="{{site.baseurl}}{{file.path | replace: '_treffen', ''}}" />
 	{% break %}
 	{% endif %}{% endif %}{% endfor %}
 
