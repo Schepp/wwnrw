@@ -11,7 +11,7 @@ author: Christian Schaefer
 location: Sipgate, Gladbacher Straße 74, 40219 Düsseldorf
 
 url: "http://www.webworker-nrw.de"
-baseurl: "/wwnrw"
+baseurl: ""
 
 collections:
   treffen:
