@@ -1,7 +1,10 @@
-.idea
+*.scssc
+*~
 .DS_Store
+.idea
+/.jekyll-metadata
+/_site
+docs
 panel/
 site/panel
-docs
-*.scssc
 site/snippets/.slack-token

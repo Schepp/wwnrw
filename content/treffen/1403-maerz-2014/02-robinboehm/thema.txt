@@ -1,9 +1,0 @@
-Title: Leap Motion
-----
-Author: Robin Böhm
-----
-Twitter:
-----
-Description:
-----
-Text: Das [Leap Motion](https://www.leapmotion.com/) erlaubt eine berührungslose Steuerung von Software mit Händen, Fingern und Gesten. Und dankenswerterweise verfügt es über eine Javascript-Schnittstelle! Nach einer kurzen Einführung in die Funktionsweise der Hardware wird Robin die Anbindung des Geräts mit Hilfe der LeapJS-JavaScript-API und die daraus resultierenden neuen Interaktionsmöglichkeiten für Webanwendungen demonstrieren.

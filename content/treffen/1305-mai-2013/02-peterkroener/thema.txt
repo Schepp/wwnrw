@@ -1,9 +1,0 @@
-Title: 50 Tipps für den Web Inspector
-----
-Author: Peter Kröner
-----
-Twitter: sir_pepe 
-----
-Description:
-----
-Text: Chrome ist wegen der vielseitigen Developer Tools für viele Webschaffende der Entwicklungsbrowser der Wahl, aber die wenigsten benutzen mehr als die Basisfunktionen dieses mächtigen Tools. CSS-formatierte Konsolen-Meldungen? In Browser-Editing mit Diffs? Snippets und Themes? Das und circa 47 weitere wissenswerte Kleinigkeiten rund um die Chrome-Devtools sind das Thema dieser Session.
