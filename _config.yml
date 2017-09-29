@@ -2,8 +2,15 @@
 markdown: kramdown
 permalink: pretty
 exclude: [
-'README.md', 'LICENCE.txt', 'CNAME',
+'README.md', 'LICENCE.txt',
+'CNAME', 'template.html',
+'ToDo',
+'gruntfile.js',
+'package.json',
+'watch.bat',
+'yarn.lock',
 ]
+
 
 # Site Settings
 title: "Webworker NRW"
