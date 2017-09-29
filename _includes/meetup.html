@@ -23,7 +23,7 @@
 		<li>
 			<h3>{{talk.title}}<br><small>{{talk.author}}</small></h3>
 			<p>
-			{{talk.description | newline_to_br | replace: '<br />', '</p><p>'}}
+				{{talk.description | markdownify}}
 			</p>
 			{% if talk.material %}
 			(<a href="{{talk.material}}">Material</a>)

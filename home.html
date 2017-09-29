@@ -4,26 +4,26 @@ title: Das monatliche Treffen für Webworker
 description: Wir treffen uns jeden 2. Do. im Monat um 19h bei Sipgate in Düsseldorf.
 permalink: /
 carousel_images:
-  - assets/images/IMGL0148.jpg
-  - assets/images/IMGL0150.jpg
-  - assets/images/IMGL0174.jpg
-  - assets/images/IMGL0184.jpg
-  - assets/images/IMGL0191.jpg
-  - assets/images/IMG_2827.jpg
-  - assets/images/IMG_2828.jpg
-  - assets/images/IMG_2830.jpg
-  - assets/images/IMG_2880.jpg
-  - assets/images/IMG_2882.jpg
-  - assets/images/IMG_2906.jpg
-  - assets/images/IMG_2922.jpg
+  - /assets/images/IMGL0148.jpg
+  - /assets/images/IMGL0150.jpg
+  - /assets/images/IMGL0174.jpg
+  - /assets/images/IMGL0184.jpg
+  - /assets/images/IMGL0191.jpg
+  - /assets/images/IMG_2827.jpg
+  - /assets/images/IMG_2828.jpg
+  - /assets/images/IMG_2830.jpg
+  - /assets/images/IMG_2880.jpg
+  - /assets/images/IMG_2882.jpg
+  - /assets/images/IMG_2906.jpg
+  - /assets/images/IMG_2922.jpg
 ---
 <main>
     <article>
 	<div id="sliderFrame">
 	    <div id="slider"
-		 style="background: url({{site.baseurl}}/{{page.carousel_images[0]}}) no-repeat center center; background-size: cover">
+		 style="background: url({{site.baseurl}}{{page.carousel_images[0]}}) no-repeat center center; background-size: cover">
 		{% for img in page.carousel_images %}
-		<img src="{{site.baseurl}}/{{img}}">
+		<img src="{{site.baseurl}}{{img}}">
 		{% endfor %}
 	    </div>
 	</div>
