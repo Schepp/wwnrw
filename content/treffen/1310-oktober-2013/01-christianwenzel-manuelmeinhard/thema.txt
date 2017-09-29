@@ -1,9 +1,0 @@
-Title: Release-Management & Continuous Integration
-----
-Author: Christian Wenzel & Manuel Meinhard
-----
-Twitter:
-----
-Description:
-----
-Text: Release-Management ist ein Prozess, welcher die Bündelung von Konfigurations-Änderungen zu einem Release oder Versionspaket und deren ordnungsgemäße Eingliederung in der Infrastruktur sicherstellte. Continuous Integration ist das fortlaufende Zusammenfügen von Komponenten zu einer Anwendung. Das Ziel der Continuous Integration ist die Steigerung der Softwarequalität. Typische Aktionen sind das Übersetzen und Linken der Anwendungsteile, prinzipiell können aber auch beliebige andere Operationen zur Erzeugung abgeleiteter Informationen durchgeführt werden. Üblicherweise wird dafür nicht nur das Gesamtsystem neu gebaut, sondern es werden auch automatisierte Tests durchgeführt und Softwaremetriken erstellt. Der gesamte Vorgang wird automatisch ausgelöst durch Einchecken in die Versionsverwaltung. (Quelle: http://de.wikipedia.org/)

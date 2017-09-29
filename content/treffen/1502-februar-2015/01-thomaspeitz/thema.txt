@@ -1,9 +1,0 @@
-Title: DevOps
-----
-Author: Thomas Peitz
-----
-Twitter: it_supertramp
-----
-Description:
-----
-Text: DevOps - Ein Buzzword, was man in den letzten Jahren vermehrt hört. Aber was ist das überhaupt? - Eine Jobbezeichnung, eine Kultur, neue Tools, die sonst keiner kennt? - Thomas Peitz wird in seinem Vortrag erklären, wie man die Voraussetzungen schafft um Software schnell und sicher auf die Live-Plattform zu bringen. Das geht nicht nur als Unternehmen, sondern auch im Kleinen: Sowohl im Hobby-Projekt als auch im Ein-Mann-Team.

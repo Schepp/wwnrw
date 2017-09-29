@@ -1,7 +1,0 @@
-Title: Webworker NRW
-----
-Author: Christian Schaefer
-----
-Description:
-----
-Location: Sipgate, Gladbacher Straße 74, 40219 Düsseldorf

@@ -1,9 +1,0 @@
-Title: Jenseits mobiler Anwendungen: Super Natural Interaction mal ganz einfach
-----
-Author: Sascha Wolter
-----
-Twitter: saschawolter 
-----
-Description:
-----
-Text: Eine SMS schickenden Kuh, der Nachrichten austauschenden Müllwagen und das telefonierenden Projektmanagement-Werkzeug: Beinahe alles wird zukünftig vernetzt und interaktiv; Apps beschränken sich nicht mehr auf traditionelle PCs und mobile Geräte wie Smartphones. Wir müssen uns der Herausforderung von immer mehr Geräten, deren Funktionen und Darstellungsmöglichkeiten stellen. Dafür ist es notwendig, dass Gestalter und Entwickler neue Denk- und Vorgehensweisen erkunden. Aber glücklicherweise ist das bestehende Wissen ja nicht verloren: Dank Agilität, technologieunabhängiger Konzepte und einer prototypischen Herangehensweise lassen sich so schon jetzt die Lösungen der Zukunft umsetzen. Sascha Wolter präsentiert in seinem Vortrag eine Vielzahl innovativer Lösungen und Visionen im Bereich der Maschine-mit-Maschine-Kommunikation (kurz M2M) – die Menschen und Tiere mit eischließt. Außerdem zeigt er verschiedenste Beispiele mit Alltagsgegenständen und Spielzeugen und in den unterschiedlichsten Programmiersprachen für unterschiedlichste Plattformen. Und das alles nur, um das Selbermachen (kurz DiY für do it yourself) zu erleichtern...

@@ -1,9 +1,0 @@
-Title: Mobile Rendering Performance
-----
-Author: Christian Schaefer
-----
-Twitter:
-----
-Description:
-----
-Text: Die Seite schnell auf das Gerät zu bringen ist das eine; aber auch in der anschließenden Bedienung sollte sie stets flüssig laufen und zügig auf Eingaben reagieren. Auf hochgezüchteten Tablets mag das noch von alleine klappen, aber bei schwächeren Geräten gilt es die anfallende Arbeit clever zu dosieren und sie auf CPU und GPU zu verteilen. In diesem hemdsärmeligen Vortrag wird es darum gehen, welche Dinge wir dafür beachten müssen und welche Register wir ziehen können. 
