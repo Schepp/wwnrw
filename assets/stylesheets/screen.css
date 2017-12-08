@@ -64,9 +64,13 @@ img {
 a {
   color: #CC0106; }
 
-h1, h2, h3, h4, h5, h6, p, details, nav, #map {
+h1, h2, h3, h4, h5, h6, p, ul, ol, details, nav, #map {
   margin-bottom: 16px;
   margin-bottom: 1rem; }
+
+li {
+  margin-bottom: 8px;
+  margin-bottom: 0.5rem; }
 
 h1, h2 {
   color: #83ab17;

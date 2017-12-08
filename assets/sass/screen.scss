@@ -24,8 +24,12 @@ a {
   color: #CC0106;
 }
 
-h1, h2, h3, h4, h5, h6, p, details, nav, #map {
+h1, h2, h3, h4, h5, h6, p, ul, ol, details, nav, #map {
   @include rem("margin-bottom", 1);
+}
+
+li {
+  @include rem("margin-bottom", 0.5);
 }
 
 h1, h2 {
