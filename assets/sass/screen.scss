@@ -125,6 +125,13 @@ nav {
   }
 }
 
+.talk {
+	ul {
+		list-style: disc outside;
+		margin-left: 1.5rem;
+	}
+}
+
 .archive {
   max-height: 500px;
   overflow: auto;

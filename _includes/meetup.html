@@ -20,11 +20,9 @@
 		{% endif %}
 
 		{% for talk in include.meetup.talks %}
-		<li>
+		<li class="talk">
 			<h3>{{talk.title}}<br><small>{{talk.author}}</small></h3>
-			<p>
-				{{talk.description | markdownify}}
-			</p>
+			{{talk.description | markdownify}}
 			{% if talk.material %}
 			(<a href="{{talk.material}}">Material</a>)
 			{% endif %}
