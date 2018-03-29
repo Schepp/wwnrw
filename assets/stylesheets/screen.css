@@ -165,6 +165,10 @@ nav {
   margin: 0 20px 12px 0;
   border: 1px solid #FFF; }
 
+.talk ul {
+  list-style: disc outside;
+  margin-left: 1.5rem; }
+
 .archive {
   max-height: 500px;
   overflow: auto; }
