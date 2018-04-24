@@ -4,6 +4,7 @@
 .idea
 /.jekyll-metadata
 /_site
+/node_modules
 docs
 panel/
 site/panel
