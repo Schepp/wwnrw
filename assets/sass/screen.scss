@@ -164,8 +164,9 @@ nav {
 
 .moodvideo {
   position: relative;
-  margin-bottom: 1rem;
+  width: 100vw;
   margin-left: calc((100vw - 41.5rem) / -2);
+  margin-bottom: 1rem;
 
   &:before {
 	content: '';
