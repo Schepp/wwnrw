@@ -205,6 +205,8 @@ nav {
   margin-bottom: 1rem;
   margin-left: calc((100vw - 41.5rem) / -2); }
   .moodvideo:before {
+    content: '';
+    display: block;
     padding-top: 56.25%; }
   .moodvideo video {
     position: absolute;

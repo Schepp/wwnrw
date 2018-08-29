@@ -168,6 +168,8 @@ nav {
   margin-left: calc((100vw - 41.5rem) / -2);
 
   &:before {
+	content: '';
+	display: block;
 	padding-top: 56.25%;
   }
 
