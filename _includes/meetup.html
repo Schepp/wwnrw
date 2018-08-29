@@ -29,4 +29,8 @@
 		</li>
 		{% endfor %}
 	</ul>
+
+	{% if include.meetup.registration %}
+	<a href="{{include.meetup.registration}}">Jetzt auf meetup.com für dieses Treffen anmelden</a>
+	{% endif %}
 </article>
