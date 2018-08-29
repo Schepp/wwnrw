@@ -163,9 +163,9 @@ nav {
 }
 
 .moodvideo {
-  @include rem("margin-bottom", 1);
-
   position: relative;
+  margin-bottom: 1rem;
+  margin-left: calc((100vw - 41.5rem) / -2);
 
   &:before {
 	padding-top: 56.25%;

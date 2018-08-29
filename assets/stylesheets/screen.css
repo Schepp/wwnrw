@@ -201,9 +201,9 @@ nav {
   border: 1px solid #FFF; }
 
 .moodvideo {
-  margin-bottom: 16px;
+  position: relative;
   margin-bottom: 1rem;
-  position: relative; }
+  margin-left: calc((100vw - 41.5rem) / -2); }
   .moodvideo:before {
     padding-top: 56.25%; }
   .moodvideo video {
