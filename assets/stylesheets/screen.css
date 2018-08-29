@@ -202,8 +202,9 @@ nav {
 
 .moodvideo {
   position: relative;
-  margin-bottom: 1rem;
-  margin-left: calc((100vw - 41.5rem) / -2); }
+  width: 100vw;
+  margin-left: calc((100vw - 41.5rem) / -2);
+  margin-bottom: 1rem; }
   .moodvideo:before {
     content: '';
     display: block;
