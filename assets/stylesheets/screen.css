@@ -200,6 +200,19 @@ nav {
   height: 400px;
   border: 1px solid #FFF; }
 
+.moodvideo {
+  margin-bottom: 16px;
+  margin-bottom: 1rem;
+  position: relative; }
+  .moodvideo:before {
+    padding-top: 56.25%; }
+  .moodvideo video {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0; }
+
 #slider {
   background-size: cover; }
 

@@ -18,16 +18,11 @@ carousel_images:
   - /assets/images/IMG_2922.jpg
 ---
 <main>
-    <article>
-	<div id="sliderFrame">
-	    <div id="slider"
-		 style="background: url({{site.baseurl}}{{page.carousel_images[0]}}) no-repeat center center; background-size: cover">
-		{% for img in page.carousel_images %}
-		<img src="{{site.baseurl}}{{img}}">
-		{% endfor %}
-	    </div>
-	</div>
-    </article>
+    <div class="moodvideo">
+		<video autoplay muted controls>
+			<source src="{{site.baseurl}}/assets/video/WebWorkerNRW_final_CC_170504zw01_1920x816.mp4" type="video/mp4">
+		</video>
+    </div>
     <article>
 	<p>
 	    Unser Treffen richtet sich an alle, die sich mit der Thematik Webentwicklung beschäftigen: Solo oder im großen Team, Grafiker, Frontendler oder Backendler gleichermaßen. Es geht darum, voneinander zu lernen und über den eigenen Tellerrand zu blicken. Je verschiedener die Gruppe, desto verschiedener die Themen!

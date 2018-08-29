@@ -124,10 +124,10 @@ nav {
 }
 
 .talk {
-	ul {
-		list-style: disc outside;
-		margin-left: 1.5rem;
-	}
+  ul {
+	list-style: disc outside;
+	margin-left: 1.5rem;
+  }
 }
 
 .archive {
@@ -162,6 +162,24 @@ nav {
   border: 1px solid #FFF;
 }
 
+.moodvideo {
+  @include rem("margin-bottom", 1);
+
+  position: relative;
+
+  &:before {
+	padding-top: 56.25%;
+  }
+
+  video {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+  }
+}
+
 #slider {
   background-size: cover;
 }
@@ -180,28 +198,28 @@ nav {
   flex-direction: row;
 
   label {
-    display: flex;
-    align-items: center;
-    flex: 1 1 90%;
+	display: flex;
+	align-items: center;
+	flex: 1 1 90%;
 	min-width: 0;
 	white-space: nowrap;
   }
 
   button {
-    flex: 0 0 10%;
-    margin: 0;
-    padding: 0 1em;
-    background-color: $colorRed;
-    color: #fff;
-    border: none;
+	flex: 0 0 10%;
+	margin: 0;
+	padding: 0 1em;
+	background-color: $colorRed;
+	color: #fff;
+	border: none;
   }
 
   input {
-    display: block;
-    flex: 1;
+	display: block;
+	flex: 1;
 	min-width: 0;
-    margin-left: 1em;
-    padding: 0.25em;
-    font: inherit;
+	margin-left: 1em;
+	padding: 0.25em;
+	font: inherit;
   }
 }
