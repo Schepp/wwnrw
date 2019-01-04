@@ -1,0 +1,13 @@
+---
+datum: "Mi. 16.01.2019, 19 Uhr"
+registration: https://www.meetup.com/Webworker-NRW/events/257074495/
+talks:
+-
+  title: "Vue.js - Let's have a View on Vue"
+  author: "Norbert Frank & Andreas Mautz"
+  twitter:
+  description: |
+      Vue.js hat sich als Alternative zu React und Angular etabliert und ist im letzten Jahr endgültig auch in der Enterprise-Welt angekommen. In zwei Vorträgen berichten Andreas Mautz und Norbert Frank von ihren Erfahrungen mit Vue.js. Dabei wird das gesamte Spektrum an interessanten Fragestellungen berücksichtigt: was ist Vue.js überhaupt, wie funktioniert es, was sind die Grundkonzepte? Wir werfen einen Blick auf die Community und das Ökosystem und gehen auf Themen wie Skalierung, Performance und Softwarearchitektur und Zukunftspläne für das Framework ein. Ein gelegentlicher Blick auf React und Angular zur besseren Abgrenzung der konzeptionellen Unterschiede darf nicht fehlen, aber ein Framework-Battle wird es nicht geben ;-)
+  material:
+---
+
